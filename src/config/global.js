@@ -1,7 +1,6 @@
 export default {
   global: {
-    componenteFormativo:
-      'Las TIC en la comunicación y colaboración en línea',
+    componenteFormativo: 'Las TIC en la comunicación y colaboración en línea',
     descripcionCurso:
       'Las Tecnologías de Información y Comunicación han logrado importantes transformaciones en las bases de la sociedad actual, apropiando en el diario vivir diferentes herramientas digitales indispensables en la comunicación y la colaboración en línea, por ende, se hace indispensable conocer recursos informáticos para este fin, logrando incorporar una identidad digital pertinente y apropiada en la era digital.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
@@ -36,7 +35,8 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Ventajas y desventajas en el proceso comunicacional en línea',
+            titulo:
+              'Ventajas y desventajas en el proceso comunicacional en línea',
             hash: 't_1_2',
           },
         ],
@@ -45,7 +45,8 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Recursos informáticos en la comunicación y colaboración en línea',
+        titulo:
+          'Recursos informáticos en la comunicación y colaboración en línea',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -72,8 +73,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo:
-              'Concepto, usos y características',
+            titulo: 'Concepto, usos y características',
             hash: 't_3_1',
           },
           {
@@ -85,7 +85,8 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.3',
-            titulo: 'Herramientas digitales de uso gubernamental, personal y empresarial',
+            titulo:
+              'Herramientas digitales de uso gubernamental, personal y empresarial',
             hash: 't_3_3',
           },
         ],
@@ -128,141 +129,164 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Belloch C, (2017) Las tecnologías de información y comunicación, Universidad de Valencia.',
+      link: 'https://www.uv.es/~bellochc/pdf/pwtic1.pdf',
+    },
+    {
+      referencia:
+        'Cabero Almenara, J. (2015). Reflexiones educativas sobre las tecnologías de la información y la comunicación (TIC). Revista Tecnología, Ciencia Y Educación, (1), 19–27.',
+      link: 'https://doi.org/10.51302/tce.2015.27',
+    },
+    {
+      referencia: 'Cisco, (2021), el cambiante entorno de la red.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'http://itroque.edu.mx/cisco/cisco1/course/module1/1.4.1.3/1.4.1.3.html',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Flores D, (2020), La comunicación humana, San Luís Potosí: Universidad Autónoma de San Luís Potosí.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'http://ingenieria.uaslp.mx/web2010/Esluiiantes/apuntes/HUMANIDADES&20B.pdf',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Guerrero S, Ripio R, (2018), La Ciudad Digital al Servicio del Ciudadano del Siglo XXI, Un ecosistema abierto de innovación, ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.minsait.com/sites/default/files/newsroom_documents/laciudaddigitalalserviciodelciudadanodelsigloxxi_0.pdf',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Instituto nacional de seguridad, (2021), Privacidad y seguridad en internet.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.aepd.es/sites/default/files/2019-11/guia-privacidad-y-seguridad-en-internet.pdf',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'Mintic, (Diciembre de 2019),Modelo de Madurez de Ciudades y Territorios Inteligentes.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://gobiernodigital.mintic.gov.co/692/articles-179102_recurso_2.pdf',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Molina A, Roque, , Garcés B,, Rojas Y, Dulzaides M,, & Selín M. (2015). El proceso de comunicación mediado por las tecnologías de la información. Ventajas y desventajas en diferentes esferas de la vida social. <i>MediSur</i>, 13(4), 481-493. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1727-897X2015000400004&lng=es&tlng=es.',
+    },
+    {
+      referencia:
+        'Moreno E, (3 de octubre de 2010), Definición y clasificación de las TIC.',
+      link: 'https://mariylastic.weebly.com',
+    },
+    {
+      referencia:
+        'Sánchez E, (20 de noviembre de 2017) Las tecnologías de información y comunicación TIC desde una perspectiva social.',
+      link: 'https://www.redalyc.org/pdf/1941/194114584020.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Alfabetización digital',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'proceso formativo en habilidades y competencias básicas en el uso de las TIC y de la navegación en la red Internet.',
     },
     {
-      termino: 'Suftware',
-      terminoHtml: '<em>Suftware</em>',
+      termino: 'Amenaza',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'persona, evento o actividad para causar un daño potencial a otra persona por un sistema informático con fines delictivos.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Automatizar',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'acción de usar herramientas informáticas en procesos que se llevaban tradicionalmente (manuales).',
     },
     {
-      termino: 'Áectores',
-      terminoHtml: '<em>Áectores</em>',
+      termino: 'Comunicación',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'proceso de interactuar, compartir y divulgar información propia de los seres humanos o individuos de una sociedad.',
     },
     {
-      termino: 'Moda',
+      termino: 'Comunicación asíncrona',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'llamada comunicación diferida en el tiempo cuando no están conectadas al mismo tiempo.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Comunicación síncrona',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'llamada comunicación simultánea o de tiempo real, cuando dos personas o un grupo están conectados e interactúan al tiempo.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Herramienta de navegación',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'un programa que permite encontrar y visualizar información de hipertexto como Google Chrome, Opera, Edge entre otros.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Herramienta de colaboración',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'herramientas digitales que permiten y promueven el trabajo en equipo, para la construcción colectiva de conocimiento o compartir experiencias.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Medios interactivos',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'permiten interactuar de forma bidireccional, se usa normalmente para el intercambio de información entre las personas en medios digitales.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Página web',
+      terminoHtml: 'Página <em>web</em>',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'documento electrónico escrito normalmente en un lenguaje llamado HTML, que permite la visualización de contenidos de internet, contienen enlaces y datos multimedia',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Smartphone',
+      terminoHtml: '<em>Smartphone</em>',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'teléfono celular inteligente, con la posibilidad de poderse actualizar, instalar programas y ser altamente productivo por las aplicaciones que contiene.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Belloch, C. (2017). <i>Las tecnologías de información y comunicación</i>. Universidad de Valencia.',
+      tipo: 'PDF',
+      link: 'https://www.uv.es/~bellochc/pdf/pwtic1.pdf',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Molina, A., Roque Garcés B., Rojas, Y., Dulzaides, M., & Selín, M. (2015). El proceso de comunicación mediado por las tecnologías de la información. Ventajas y desventajas en diferentes esferas de la vida social. <i>MediSur</i>, 13(4), 481-493.',
+      tipo: 'Artículo',
+      link:
+        'http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1727-897X2015000400004&lng=es&tlng=es.',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
+        'Sánchez, E. (2017). <i>Las tecnologías de información y comunicación TIC desde una perspectiva social.</i>',
+      tipo: 'PDF',
+      link: 'https://www.redalyc.org/pdf/1941/194114584020.pdf',
     },
     {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+      texto: 'Moreno, E. (2010). <i>Definición y clasificación de las TIC.</i>',
+      tipo: 'Blog',
+      link: 'https://mariylastic.weebly.com',
     },
     {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      texto:
+        'Instituto nacional de seguridad. (2021). <i>Privacidad y seguridad en internet.</i>',
+      tipo: 'PDF',
+      link:
+        'https://www.aepd.es/sites/default/files/2019-11/guia-privacidad-y-seguridad-en-internet.pdf',
+    },
+    {
+      texto:
+        'Guerrero, S., y Ripio, R. (2018). <i>La Ciudad Digital al Servicio del Ciudadano del Siglo XXI, Un ecosistema abierto de innovación.</i>',
+      tipo: 'PDF',
+      link:
+        'https://www.minsait.com/sites/default/files/newsroom_documents/laciudaddigitalalserviciodelciudadanodelsigloxxi_0.pdf',
+    },
+    {
+      texto:
+        'Mintic. (2019). <i>Modelo de Madurez de Ciudades y Territorios Inteligentes.</i>',
+      tipo: 'PDF',
+      link:
+        'https://gobiernodigital.mintic.gov.co/692/articles-179102_recurso_2.pdf',
     },
   ],
   creditos: {
@@ -278,7 +302,7 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     desarrolloProducto: [
@@ -286,43 +310,49 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: '',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Luis Fabian Robles Méndez',
+        cargo: 'Desarrollo front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: '',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Nombre',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Nombre',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },
