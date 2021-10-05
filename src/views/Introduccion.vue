@@ -9,8 +9,13 @@
           i.fas.fa-info
       h1 Introducción
     
-    .corner-box.color-b1
-
+    .corner-box.color-b1.p-4.mb-5
+      .row
+        .col-lg-3
+          //-- aqui viene la chica
+        .col-lg-9
+          p.text-xl ¿Conoces los hitos que han marcado las formas de comunicación y las diferentes transformaciones frente al comportamiento de las personas en la utilización de herramientas digitales?  Ingresa al siguiente recurso, donde te explicaremos sobre ello. 
+          //-- Aqui viene el player
 
     figure.mb-5
       .video
