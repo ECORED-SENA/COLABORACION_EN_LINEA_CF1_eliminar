@@ -176,17 +176,17 @@
       .h4 Ventajas y desventajas del <br>proceso comunicacional en línea
 
     .neg-margin-x.bg-curve-soft
-      .row.mb-5
-        .col-lg-2
+      .row.mb-5.justify-content-center
+        .col-lg-2.d-none.d-sm-block
           figure(data-aos="flip-left")
             img.nW(src="@/assets/curso/t1-b1.svg", alt="personaje animado")
         .col-lg-4
           figure(data-aos="flip-left")
             img.nW(src="@/assets/curso/t1-b1-1.svg", alt="personaje animado")
         .col-lg-4
-          figure(data-aos="flip-left")
+          figure(data-aos="flip-right")
             img.nW(src="@/assets/curso/t1-b1-2.svg", alt="personaje animado")
-        .col-lg-2
+        .col-lg-2.d-none.d-sm-block
           figure(data-aos="flip-left")
             img.nW(src="@/assets/curso/t1-b2.svg", alt="personaje animado")
 
@@ -199,35 +199,13 @@
 
 
 
-
-
-
-
-
-
-
-
-    //- El componente "Muestras" tiene las aplicaciones de todos los componentes de la base
-    //- se encuentra en src/components/Muestras.vue
-    //- Una vez el componente "Muestras" no se necesite 
-    //- Se debe borrar el "import Muestras from '../components/Muestras'" y en "components" en "<script"
-    //- esto evitará que se compile en la carpeta final de distribución
-    Muestras
-
-
-
-
-
   
 </template>
 
 <script>
-import Muestras from '../components/Muestras' // borrar una vez el componente "Muestras" no se necesite
 export default {
   name: 'Tema1',
-  components: {
-    Muestras, // borrar una vez el componente "Muestras" no se necesite
-  },
+  components: {},
   data: () => ({
     // variables de vue
   }),
