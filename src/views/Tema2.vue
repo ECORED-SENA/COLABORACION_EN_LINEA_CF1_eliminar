@@ -111,7 +111,7 @@
               .bloque-texto-a__texto.p-4.shadow-box
                 p Allí se necesita que los actores involucrados en estos procesos sean parte cooperante y colaborativa, exigiendo que te vuelvas el propio protagonista de lo que comunicas y desarrolles en estos medios digitales, por su inmediatez dichos procesos comunicativos favorecen sustancialmente la posibilidad de aumentar tus conocimientos. 
     
-    .corner-box.color-b1.p-4.mb-5.m-custom.flipped-corners
+    .corner-box.color-b3.p-4.mb-5.m-custom.flipped-corners
       .row.align-items-center
         .col-lg-9
           p.text-xl 
@@ -266,7 +266,7 @@
     #t_2_2.titulo-segundo
       h2 2.2 Navegación y principios de seguridad
 
-    .corner-box.color-b2.p-4.mb-5.m-custom
+    .corner-box.color-b4.p-4.mb-5.m-custom
       .row.align-items-center
         .col-lg-3
           .wrap-overflow
