@@ -401,9 +401,77 @@
             .col-md-6
               figure
                 img(src='@/assets/curso/t2-n1.png', alt='imagen decorativa')  
+          .row
+            .col-md-6.mb-4.mb-md-0
+              .h4 Buscadores
+              p Este servicio muy usado en internet, es aquel que permite encontrar información a través de una palabra clave, recuperan la información por medio de un robot de búsqueda llamado spider, localizando los recursos buscados y traídos a manera de lista para que usuario pueda acceder a todos los contenidos, normalmente viene acompañados de una breve descripción para saber que tipo de contenido encontró, posiblemente el que más uses sea el que provee Google, pero no es el único, en la red hay un abanico amplio de opciones hasta los buscadores científicos, de bancos de imágenes, académicos entre otros.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t2-n2.png', alt='imagen decorativa')  
 
+          .row
+            .col-md-6.mb-4.mb-md-0
+              .h4 Mensajería, chat o IRC
+              p Permite la comunicación instantánea con dos o más participantes, comúnmente conocido como chat, funciona hoy en día de manera síncrona y asíncrona donde los mensajes pueden contener diferente tipo de información, entre los más populares podemos encontrar a WhatsApp, Facebook Messenger, entre otros.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t2-n3.png', alt='imagen decorativa')                 
 
+          .row
+            .col-md-6.mb-4.mb-md-0
+              .h4 La <i>World Wide Web</i> (www)
+              p Es el servicio más popular, sus siglas en inglés <i>World Wide Web</i>, o telaraña mundial, es donde se alojan todas las páginas, sitios o portales web, que por medio de una dirección electrónica o URL pueden ser accedidos en cualquier parte del mundo, la transferencia de información se realiza mediante un protocolo llamado http (Protocolo de transferencia de hipertextos).
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t2-n4.png', alt='imagen decorativa')                 
 
+          .row
+            .col-md-6.mb-4.mb-md-0
+              .h4 Noticias o <i>news</i>
+              p Llamados grupos de noticias, es un servicio donde un grupo de computadores mediante un servidor de información brindan la oportunidad de crear, distribuir y organizar información de diferentes temáticas y así poder llegar a los usuarios según sus intereses particulares.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t2-n5.png', alt='imagen decorativa')   
+
+          .row
+            .col-md-6.mb-4.mb-md-0
+              .h4 Transferencia de archivos o FTP
+              p Es un servicio utilizado por personas o empresas que necesitan compartir grandes volúmenes de información de forma segura y rápida, se hace punto a punto comúnmente, se desarrolla para que las personas puedan enviar o recibir paquetes de datos e información. 
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t2-n6.png', alt='imagen decorativa')   
+
+          .row
+            .col-md-6.mb-4.mb-md-0
+              .h4 Comercio electrónico
+              p Es un servicio que se ha utilizado como el mejor modelo de negocios para ofrecer u obtener bienes y servicios en la red por medios digitales, los cuales se pueden acceder por medios de catálogos y hasta aplicaciones móviles.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t2-n7.png', alt='imagen decorativa')   
+
+          .row
+            .col-md-6.mb-4.mb-md-0
+              .h4 Foros
+              p Es un espacio dirigido a un grupo de personas o individuos que comparten intereses, normalmente se abre con un tema o pregunta debate donde todos los usuarios registrados o anónimos pueden opinar sobre el tema, se hace de forma secuencial según los post publicados organizados por fecha y relevancia.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t2-n8.png', alt='imagen decorativa')   
+
+          .row
+            .col-md-6.mb-4.mb-md-0
+              .h4 Wikis
+              p Este tipo de servicio, es utilizado para poder generar contenido en línea de manera colaborativa, habrás escuchado la famosa Wikipedia, que no es más que un sitio donde todos pueden ir aportando información para construir un gran compendio de contenidos, un claro ejemplo y que de seguro lo usas muy frecuentemente es la plataforma de Google YouTube, donde cada usuario aporta para que el servicio pueda ser consumido.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t2-n9.png', alt='imagen decorativa')   
+
+          .row
+            .col-md-6.mb-4.mb-md-0
+              .h4 Redes Sociales
+              p Este servicio de colaboración en línea son comunidades digitales, las cuales son estructuradas para compartir información y los usuarios se unen según sus intereses, valores o ideas comunes, existen de tipo científico, académico, comercial entre otros, la más conocida mundialmente es Facebook.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t2-n10.png', alt='imagen decorativa')   
 
 
 
