@@ -198,7 +198,43 @@
 
     h3.titulo-tercero Acceso al mundo digital
     p.mb-5  Los accesos y herramientas al mundo digital generan brechas que han propiciado diversos cambios en la sociedad actual, han transformado la forma como se genera la comunicación con los demás, de relacionarse, frente a las compras o venta de productos, cómo se aprende y hasta su utilización en entornos laborales, incluyendo entre ellas, el ocio y el entretenimiento.
-    
+    TabsC.color-acento-contenido.mb-5
+      .py-3.py-md-4(titulo="Interacción en el mundo digital")
+        .row.justify-content-center
+          .col-md-6
+            figure
+              img.nW.centered(src="@/assets/curso/t2-i6.jpg", alt="icono decorativo")
+          .col-md-6.mb-4.mb-md-0
+            h4 Interacción en el mundo digital
+            p El mundo cambia y seguirá tomando nuevos rumbos de forma sustancial y acelerada encaminado a ser más digital, ya que millones de personas tienen acceso ilimitado a internet a través de los dispositivos como computadores, celulares, tabletas e incluso televisores de tipo Smart y las innumerables herramientas y aplicaciones que presentan múltiples posibilidades de estar conectados y en constante comunicación de forma permanente. Esta posibilidad de comunicación de forma inmediata con las demás personas ha permitido obtener información al instante de todo lo que pasa alrededor y en el mundo, al igual que aprender, enseñar, adquirir productos y servicios y las nuevas oportunidades en todas las esferas de la sociedad en cualquier momento y lugar.   
+          
+      .py-3.py-md-4(titulo="Inclusión en el mundo digital")
+        .row.justify-content-center
+          .col-md-6
+            figure
+              img.nW.centered(src="@/assets/curso/t2-i6.jpg", alt="icono decorativo")
+          .col-md-6.mb-4.mb-md-0
+            h4 Inclusión en el mundo digital
+            p
+
+      .py-3.py-md-4(titulo="Brecha digital")
+        .row.justify-content-center
+          .col-md-6
+            figure
+              img.nW.centered(src="@/assets/curso/t2-i6.jpg", alt="icono decorativo")
+          .col-md-6.mb-4.mb-md-0
+            h4 Brecha digital
+            p
+
+      .py-3.py-md-4(titulo="Conexión en el mundo digital")
+        .row.justify-content-center
+          .col-md-6
+            figure
+              img.nW.centered(src="@/assets/curso/t2-i6.jpg", alt="icono decorativo")
+          .col-md-6.mb-4.mb-md-0
+            h4 Conexión en el mundo digital
+            p
+
 
     Separador
     br
@@ -206,19 +242,165 @@
     #t_2_2.titulo-segundo
       h2 2.2 Navegación y principios de seguridad
 
+    .corner-box.color-b2.p-4.mb-5.m-custom
+      .row.align-items-center
+        .col-lg-3
+          .wrap-overflow
+            figure(data-aos="flip-left")
+              img(src="@/assets/curso/t2-i6.png", alt="personaje animado")
+        .col-lg-9
+          p.text-xl El mundo digital se puede explorar por medio de un dispositivo electrónico ya sea portable o fijo, en el cual se posea una conexión para explorar todo lo que esté al alcance y se quiera.  
+            span.text-normal La gran convergencia del uso masivo de dichos dispositivos inteligentes, en especial el uso de celulares como los smartphones, y la aparición de las redes de datos cada vez más veloces, hace que todos los servicios de navegación en la red se puedan consumir en cualquier lugar y hora.
+          .wrap-player
+            audio(controls='')
+              source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')
+              |  Your browser does not support the audio tag.
+
+    .row.justify-content-center
+      .col-lg-10(data-aos="fade-left")
+        .bloque-texto-a.color-acento-botones.p-3.p-md-5.mb-5.dir-ltr
+          .row.m-0.align-items-center.justify-content-between
+            .col-lg-8
+              .bloque-texto-a__texto.p-4.shadow-box
+                p.mb-3  Para poder acceder a toda la información que hay en internet basta con dar clic o pulsar touch en los enlaces que se encuentran en las diferentes páginas electrónicas, lo que permite ingresar a un mundo de opciones según las necesidades.
+                p.mb-4  Para navegar en la red, ten en cuenta:
+                ol.lista-ol--cuadro
+                  li 
+                    .lista-ol--cuadro__vineta
+                      span 1
+                    p.mb-0 Tener la última versión de tus navegadores.
+                  li 
+                    .lista-ol--cuadro__vineta
+                      span 2
+                    p.mb-0 Configurar la página de home de tu navegador con un buscador de confianza.
+                  li 
+                    .lista-ol--cuadro__vineta
+                      span 3
+                    p.mb-0 Digitar las direcciones electrónicas completas y así evitar páginas fraudulentas.                   
+                  li 
+                    .lista-ol--cuadro__vineta
+                      span 4
+                    p.mb-0  Poner en favoritos las páginas que más visites. 
+                  li 
+                    .lista-ol--cuadro__vineta
+                      span 5
+                    p.mb-0  Acceder a páginas seguras y certificadas.
+                  li 
+                    .lista-ol--cuadro__vineta
+                      span 6
+                    p.mb-0  Evitar usar las opciones de atrás y adelante, esto aumenta el tráfico de datos.                    
+                  li 
+                    .lista-ol--cuadro__vineta
+                      span 7
+                    p.mb-0  Aceptar plugin o cookies de sitios de confianza. 
+                  li 
+                    .lista-ol--cuadro__vineta
+                      span 8
+                    p.mb-0  Utiliza pestañas de navegación para optimizar la navegación.                    
 
 
+            .col-lg-4.mb-4.mb-lg-0
+              figure(data-aos="flip-left")
+                img.nW(src="@/assets/curso/t2-i7.svg", alt="imagen decorativa")
 
+    br
+    .corner-box.color-b2.p-4.mb-5.m-custom
+      .row.align-items-center
+        .col-lg-3
+          .wrap-overflow
+            figure(data-aos="fade-up")
+              img.nW(src="@/assets/curso/t2-i8.png", alt="personaje animado")
+        .col-lg-9
+          p.text-xl ¿Sabes de las exposiciones a las cuales estás expuesto sobre los peligros y amenazas que ponen en peligro tu información e integridad?, 
+            span.text-normal te invito a conocer algunos consejos y principios de seguridad prácticos para la navegación.
+          .wrap-player
+            audio(controls='')
+              source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')
+              |  Your browser does not support the audio tag.
 
+    .neg-margin-x.bg-soft-green.mb-5
+      .tarjeta.p-4.mb-5
+        SlyderA
+          .row
+            .col-md-6.mb-4.mb-md-0
+              p No accedas a enlaces sospechosos, esta es una práctica muy común de los ciberdelincuentes para hacerte caer en fraudes o infectarte con códigos maliciosos para robar información, pueden estar presentes en mensajes, correos electrónicos, noticias falsas entre otros.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t3-s1.png', alt='imagen decorativa')  
+          .row
+            .col-md-6.mb-4.mb-md-0
+              p No accedas a sitios <i>web</i> no seguros, debes de tener en cuenta que la dirección que estés visitando debe contener un candado al frente de la <i>URL</i>, hoy en día con la existencia de la ingeniería social pueden recomendarte sitios de tu interés para captar tu atención, pero el único fin es robar tus datos e información.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t3-s2.png', alt='imagen decorativa')  
 
+          .row
+            .col-md-6.mb-4.mb-md-0
+              p Analiza los resultados que te brindan los buscadores, muchas veces lo que arrojan tus búsquedas se priorizan en el navegador de primeras, las páginas que no son certificadas o seguras.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t3-s3.png', alt='imagen decorativa')  
 
+          .row
+            .col-md-6.mb-4.mb-md-0
+              p Evita realizar transacciones comerciales, la información es muy sensible como contraseñas o claves de tarjetas de crédito que pueden caer en manos inescrupulosas, si es así comprueba que el protocolo seguro https://, siempre esté presente.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t3-s4.png', alt='imagen decorativa')  
 
+          .row
+            .col-md-6.mb-4.mb-md-0
+              p Cierra tus sesiones, a veces olvidas salir de tus cuentas dejando toda tu información a la orden de la mano de otro usuario que puede usar tu información con fines delictivos o bajar tu reputación.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t3-s5.png', alt='imagen decorativa')  
 
+          .row
+            .col-md-6.mb-4.mb-md-0
+              p Navega por incógnito, hoy en día algunos navegadores tienen esa opción para que tus datos e información no se almacenen en tus dispositivos, sobre todo cuando realices cualquier operación que tenga información sensible.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t3-s6.png', alt='imagen decorativa')  
 
+          .row
+            .col-md-6.mb-4.mb-md-0
+              p No realices descargas de archivos o programas de páginas no oficiales y verifica que las aplicaciones de seguridad de tu navegador estén actualizadas.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t3-s7.png', alt='imagen decorativa')  
 
+          .row
+            .col-md-6.mb-4.mb-md-0
+              p Cambia tus contraseñas, es importante que tu seguridad esté siempre latente, con periodicidad hay que renovar tus claves, que sean alfanuméricas y que sean diferentes, no uses siempre la misma en todo.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t3-s8.png', alt='imagen decorativa')  
 
+          .row
+            .col-md-6.mb-4.mb-md-0
+              p No te registres en todo, muchas veces entregas información personal en toda parte de la red, lo que hacen es recopilar tu información para poder atacarte, solo regístrate si es necesario y sepas que es confiable.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t3-s9.png', alt='imagen decorativa')  
+          .row
+            .col-md-6.mb-4.mb-md-0
+              p Lee los avisos, alertas o mensajes, estas acostumbrado a dar aceptar a todo, tómate tu tiempo y revisa que estás aceptando, tal cual como dices en la vida real “leer la letra pequeña del contrato”.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t3-s10.png', alt='imagen decorativa')  
 
-
+    h3.titulo-tercero Servicios de Internet
+    p.mb-5  La red posee una gran cantidad de servicios, que son aplicables de acuerdo con las funcionalidades que estos prestan para poder realizar todas las actividades digitales, entre los más utilizados están:
+    .neg-margin-x.bg-soft-green.mb-5
+      .tarjeta.p-4.mb-5
+        SlyderA
+          .row
+            .col-md-6.mb-4.mb-md-0
+              .h4 Correo Electrónico
+              p También comúnmente conocido por el anglicismo E-Mail, es uno de los servicios más populares, su principal objetivo es el enviar y recibir información por medio de una casilla de correo, su ventaja es la inmediatez del servicio, el mensaje enviado basta solo segundos para que esté en su destino, para ello existen gratuitos y de pago, que radican en sus funcionalidades extendidas, una dirección está compuesta por el nombre o identificador que debe ser único, la arroba, y el dominio a quién pertenece el servicio, este puede enviar o recibir todo tipo de información (sonido, texto, imagen, videos, animación).
+            .col-md-6
+              figure
+                img(src='@/assets/curso/t2-n1.png', alt='imagen decorativa')  
 
 
 
