@@ -229,7 +229,7 @@
               img.nW.centered(src="@/assets/curso/t2-i6.jpg", alt="icono decorativo")
           .col-md-6.mb-4.mb-md-0
             h4 Inclusión en el mundo digital
-            p
+            p El mundo digital debe ser inclusivo, su acceso es ilimitado y público, para que así se pueda acceder a él sin restricciones y cuando se esté preparado, para ellos es importante que tener en cuenta que la información está al alcance de la mano y sería deseable que el conocimiento generado con dicha información pueda ser compartido.
 
       .py-3.py-md-4(titulo="Brecha digital")
         .row.justify-content-center
@@ -238,7 +238,17 @@
               img.nW.centered(src="@/assets/curso/t2-i6.jpg", alt="icono decorativo")
           .col-md-6.mb-4.mb-md-0
             h4 Brecha digital
-            p
+            p.mb-3 No se puede dejar de lado, y mucho menos ignorar, que muchas veces la ignorancia tecnológica genera una brecha digital. A lo cual, se le debe dar solución por medio de iniciativas que den cabida a cualquier individuo al <b>nuevo mundo digital</b>, tomando como referente lo siguiente:
+            ul.lista-ul
+              li
+                i.fas.fa-check
+                p <b>Alfabetización digital</b>, como competencia básica y se debe de garantizar que todas las personas logren aprender a utilizar de forma adecuada las herramientas tecnológicas que mejoran nuestra calidad de vida.
+              li
+                i.fas.fa-check
+                p <b>Mejorar el aprovechamiento y el acceso a Internet</b>, para poder estar inmersos en los cambios digitales y ser parte del mundo digital se debe garantizar que se pueda tener una conexión en todos los rincones del planeta, muchos países han adoptado medidas públicas en parques, bibliotecas, colegios, universidades, lo cual acerca a todas las posibilidades de ser parte de este nuevo fenómeno social para lograr una inclusión social completa.
+              li
+                i.fas.fa-check
+                p <b>Ofrecer contenidos en Internet que sean fáciles y accesibles</b>, la información debe ser simple y pensada para todo tipo de personas, edades, costumbres como eje social del conocimiento  
 
       .py-3.py-md-4(titulo="Conexión en el mundo digital")
         .row.justify-content-center
@@ -247,7 +257,7 @@
               img.nW.centered(src="@/assets/curso/t2-i6.jpg", alt="icono decorativo")
           .col-md-6.mb-4.mb-md-0
             h4 Conexión en el mundo digital
-            p
+            p Biil Gates, presidente de la compañía Microsoft, advirtió sobre la evolución del acceso digital diciendo: <b>“Habrá dos tipos de negocios en el siglo XXI, Aquellos que estén en Internet y aquellos que ya no existan”</b> aduciendo dicha frase hasta el punto en que si una persona no está conectada, no existe.
 
 
     Separador
