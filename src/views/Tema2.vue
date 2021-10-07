@@ -111,7 +111,21 @@
               .bloque-texto-a__texto.p-4.shadow-box
                 p Allí se necesita que los actores involucrados en estos procesos sean parte cooperante y colaborativa, exigiendo que te vuelvas el propio protagonista de lo que comunicas y desarrolles en estos medios digitales, por su inmediatez dichos procesos comunicativos favorecen sustancialmente la posibilidad de aumentar tus conocimientos. 
     
-    //-- Aqui viene la caja redondeada
+    .corner-box.color-b1.p-4.mb-5.m-custom.flipped-corners
+      .row.align-items-center
+        .col-lg-9
+          p.text-xl 
+            span.text-normal  Es así como las diversas herramientas digitales de comunicación te dan un abanico de opciones para poder analizarlas y clasificarlas según su uso y puedas escoger las más idóneas. Teniendo en cuenta la forma de cómo se puede intercambiar información y en el tiempo que estas se realicen, se puede tener dos tipos de comunicación: 
+            span Te invito a conocer su clasificación. 
+          .wrap-player
+            audio(controls='')
+              source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')
+              |  Your browser does not support the audio tag.
+        .col-lg-3
+          .wrap-overflow
+            figure(data-aos="flip-left")
+              img(src="@/assets/curso/t1-4.png", alt="personaje animado")
+        
 
     .row.mb-5.slideInUp
       .col-lg-2
