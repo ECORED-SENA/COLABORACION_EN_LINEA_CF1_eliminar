@@ -8,6 +8,21 @@
         span 3
       h1 Herramientas y plataformas colaborativas
     
+    .corner-box.color-b1.p-4.mb-5.m-custom
+      .row.align-items-center
+        .col-lg-3
+          .wrap-overflow
+            figure(data-aos="flip-left")
+              img(src="@/assets/curso/t3-i1.png", alt="personaje animado")
+        .col-lg-9
+          p.text-xl La penetración de los medios digitales y el uso de los dispositivos móviles, ha hecho que hoy en día encuentres muchas herramientas para poder comunicarte y te relaciones con los demás, 
+            span.text-normal la cultura digital te permite poder acceder a muchos recursos y así colaborar en espacios públicos y potenciar la inclusión y participación de un individuo como sociedad.
+          .wrap-player
+            audio(controls='')
+              source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')
+              |  Your browser does not support the audio tag.
+          //-- Aqui viene el player
+    
     #t_3_1.titulo-segundo
       h2 3.1 Concepto, usos y características
     .row.mb-5
@@ -35,9 +50,82 @@
         figure(data-aos="slide-left")
           img(src="@/assets/curso/t3-i3.jpg", alt="imagen decorativa")
 
-    .row.justify-content-center.mb-5
-      .col-lg-2
-        //-- Aqui vienen los modales
+    //-- ROW MODALS
+    .row.mb-5.justify-content-center
+      .col-sm-4.col-md-4.col-lg-2
+        .objBox
+          a(@click="modal1 = true")
+            figure(data-aos="flip-up")
+              img.nW(src='@/assets/curso/t3-m1.svg', alt='icono decorativo')
+          //--.indicador--click(v-if="mostrarIndicador")    
+        ModalA(:abrir-modal.sync="modal1")
+          .row.align-items-center
+            .col-lg-2
+              figure
+                img.nW(src='@/assets/curso/t3-im1.svg', alt='icono decorativo')
+            .col-lg-10
+              .h4 Educación
+              p La forma como se aprenden los contenidos y se apropian para su comprensión, han cambiado los preceptos sociales de la educación en el binomio profesor-estudiante, la colaboración en línea y la creación de este tipo de plataformas ha potencializado esta área abriendo posibilidades en el ámbito educativo que llevan a reevaluar los procesos enseñanza-aprendizaje.
+
+      .col-sm-4.col-md-4.col-lg-2
+        .objBox
+          a(@click="modal2 = true")
+            figure(data-aos="flip-up")
+              img.nW(src='@/assets/curso/t3-m2.svg', alt='icono decorativo')
+          //--.indicador--click(v-if="mostrarIndicador")    
+        ModalA(:abrir-modal.sync="modal2")
+          .row.align-items-center
+            .col-lg-2
+              figure
+                img.nW(src='@/assets/curso/t3-im2.svg', alt='icono decorativo')
+            .col-lg-10
+              .h4 Empresas
+              p Generan espacios colaborativos entre sus proveedores y usuarios, facilitando el acceso a la nube, son muy fáciles de usar bajo el principio de integración y colaboración entre equipos de trabajo y solucionan problemas de manera más efectiva, permitiendo el seguimiento de los casos.
+
+      .col-sm-4.col-md-4.col-lg-2
+        .objBox
+          a(@click="modal3 = true")
+            figure(data-aos="flip-up")
+              img.nW(src='@/assets/curso/t3-m3.svg', alt='icono decorativo')
+          //--.indicador--click(v-if="mostrarIndicador")    
+        ModalA(:abrir-modal.sync="modal3")
+          .row.align-items-center
+            .col-lg-2
+              figure
+                img.nW(src='@/assets/curso/t3-im3.svg', alt='icono decorativo')
+            .col-lg-10
+              .h4 Personal
+              p Se han logrado avances importantes en cómo se genera la comunicación con los demás, los perfiles digitales permiten compartir información en diferentes formatos, llegando a todo tipo de público y encontrar alrededor del mundo personas con intereses comunes, la relación e intercambio de información va desde lo personal hasta lo profesional.
+
+      .col-sm-4.col-md-4.col-lg-2
+        .objBox
+          a(@click="modal4 = true")
+            figure(data-aos="flip-up")
+              img.nW(src='@/assets/curso/t3-m4.svg', alt='icono decorativo')
+          //--.indicador--click(v-if="mostrarIndicador")    
+        ModalA(:abrir-modal.sync="modal4")
+          .row.align-items-center
+            .col-lg-2
+              figure
+                img.nW(src='@/assets/curso/t3-im4.svg', alt='icono decorativo')
+            .col-lg-10
+              .h4 Gestión de proyectos
+              p Existen muchas plataformas para la gestión de proyectos, que permiten organizar el trabajo de forma ágil y flexible, buscan la efectividad y aumentar tu productividad como persona y como equipo de trabajo, incluyen características propias de seguimiento y cumplimiento automatizado que hace que las actividades realizadas sean mejor controladas, desde alertas, calendarios, hasta mensajes de correo electrónico o notificaciones en los dispositivos.
+
+      .col-sm-4.col-md-4.col-lg-2
+        .objBox
+          a(@click="modal5 = true")
+            figure(data-aos="flip-up")
+              img.nW(src='@/assets/curso/t3-m5.svg', alt='icono decorativo')
+          //--.indicador--click(v-if="mostrarIndicador")    
+        ModalA(:abrir-modal.sync="modal5")
+          .row.align-items-center
+            .col-lg-2
+              figure
+                img(src='@/assets/curso/t3-im5.svg', alt='icono decorativo')
+            .col-lg-10
+              .h4 Gobierno
+              p Como estrategias y políticas las administraciones públicas hacen uso de las plataformas colaborativas, generando espacios de servicio al ciudadano y tener de primera mano las percepciones de las personas y como estas llegan a cada usuario, la mejor forma de comunicar leyes, proyectos o información relevante han sido los medios digitales, para poder construir país de forma equitativa, estos sistemas de base tienen módulos y aplicaciones para que los usuarios puedan acceder
 
 
     Separador
@@ -162,7 +250,7 @@
             p.mb-4 Dentro de las herramientas digitales de uso personal, el campo de acción es bastante amplio, ya que buscan ayudar a compartir información y pueda llegar a todo tipo de personas, entre las mas comunes están:
             .row.justify-content-center
               .col-lg-12
-                figure
+                figure.slideInLeft
                   img(src='@/assets/curso/t3-info2.svg', alt='imagen decorativa')
 
       .py-3.py-md-4(titulo="Herramientas empresariales")
@@ -172,7 +260,7 @@
             p.mb-4 La empresa no es ajena a los grandes avances tecnológicos, hoy en día existen gran cantidad de herramientas que ayudan a posicionar en el mercado las empresas y mejorar su productividad, entre los cuales se puede mencionar:
             .row.justify-content-center
               .col-lg-12
-                figure
+                figure.slideInLeft
                   img(src='@/assets/curso/t3-info3.svg', alt='imagen decorativa')
 
 
@@ -191,7 +279,12 @@
 export default {
   name: 'Tema3',
   data: () => ({
-    // variables de vue
+    mostrarIndicador: true,
+    modal1: false,
+    modal2: false,
+    modal3: false,
+    modal4: false,
+    modal5: false,
   }),
   mounted() {
     this.$nextTick(() => {
