@@ -3,8 +3,8 @@ export default {
     componenteFormativo: 'Las TIC en la comunicación y colaboración en línea',
     descripcionCurso:
       'Las Tecnologías de Información y Comunicación han logrado importantes transformaciones en las bases de la sociedad actual, apropiando en el diario vivir diferentes herramientas digitales indispensables en la comunicación y la colaboración en línea, por ende, se hace indispensable conocer recursos informáticos para este fin, logrando incorporar una identidad digital pertinente y apropiada en la era digital.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
+    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   },
   menuPrincipal: {
     menu: [

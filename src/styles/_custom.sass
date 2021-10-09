@@ -280,28 +280,29 @@ figcaption
 .referencias__item a
   margin-left: 5px
 .banner-principal__img
-  max-width: 280px
-  overflow: hidden
-  transform: translatey(0px)
-  animation: float 6s ease-in-out infinite
-.floatingCircle
+  padding-bottom: 0
+.banner-principal__img:before
+  content: ''
   position: absolute
-  width: 28px
-  height: 28px
+  width: 120px
+  height: 100px
   z-index: 5
-  left: 3rem
+  right: 30rem
   top: 10%
   transform: translatey(0px)
   animation: float 6s ease-in-out infinite
-.floatingCircle2
+  background-image: url('../assets/curso/ic-head1.png')
+.banner-principal__img:after
+  content: ''
   position: absolute
-  width: 15px
-  height: 15px
+  width: 100px
+  height: 100px
   z-index: 3
   right: 5rem
   top: 25%
   transform: translatey(0px)
   animation: float2 8s ease-in-out infinite
+  background-image: url('../assets/curso/ic-head2.png')
 .slideInLeft
   -webkit-animation-name: slideInLeft
   animation-name: slideInLeft
