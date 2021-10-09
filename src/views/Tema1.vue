@@ -164,11 +164,46 @@
 
     p.mb-5(data-aos="slide-left")  Para determinar una clasificación de las TIC, se debe tener en cuenta los medios y los enfoques en las cuales se están utilizando, hoy en día y en ese contexto, se puede decir que estas innovadoras herramientas se pueden determinar cómo se relacionan a continuación.
 
-    //-- Aqui vienen los nav holders
+    .row.mb-5.justify-content-center
+      .col-md-4.col-lg-4
+        .nav-holder.align-items-center(data-aos="flip-up")
+          img(src="@/assets/curso/t1-p1.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 Tradicionales
+              p.small Conocidas como MASS-Media, utilizan canales de difusión masiva tales como la televisión, la radio, los periódicos, y pretenden llegar a un receptor colectivo, ya que la información no es controlada; es de tipo global e indiscriminada dentro de un mundo digital social.
 
+      .col-md-4.col-lg-4
+        .nav-holder.align-items-center(data-aos="flip-up")
+          img(src="@/assets/curso/t1-p2.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 En red e informáticas
+              p.small A través de la incursión de dispositivos electrónicos y digitales se incrementa la interactividad, ofreciendo gran cantidad de servicios, que buscan la colaboración e intercambio de información entre los usuarios. Los medios digitales son inmersivos y muy rápidos, por ello, se han desarrollado diferentes opciones como la inteligencia artificial, las redes neuronales, la realidad virtual y aumentada.
 
+      .col-md-4.col-lg-4
+        .nav-holder.align-items-center(data-aos="flip-up")
+          img(src="@/assets/curso/t1-p3.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 Interactivas
+              p.small Las herramientas son mucho más versátiles, hoy en día es muy común encontrar tableros electrónicos en un ambiente de formación, donde la experiencia de usuario se hace cada vez más inclusiva.
+      .clearfix
+      .col-md-4.col-lg-4
+        .nav-holder.align-items-center(data-aos="flip-up")
+          img(src="@/assets/curso/t1-p4.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 Transmisivas
+              p.small Apoyan los procesos de comunicación en los seres humanos, llevando un mensaje al receptor, dependiendo de sus gustos y aficiones, cada vez las bibliotecas virtuales toman más fuerza, los podcasts, los videojuegos, la TV digital.
 
-
+      .col-md-4.col-lg-4
+        .nav-holder.align-items-center(data-aos="flip-up")
+          img(src="@/assets/curso/t1-p5.svg", alt="Imagen decorativa")
+          .text.p-lg-3.p-4
+            .row.px-lg-3.mb-lg-2
+              p.h3 Activas
+              p.small Son utilizadas en la educación para potenciar los aprendizajes en diferentes canales y medios, además en los procesos de productividad en empresas, a través de herramientas multimediales de gran impacto y hasta los buscadores de información generan una experiencia personalizada según cada usuario digital.
 
 
 
