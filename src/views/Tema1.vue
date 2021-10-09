@@ -63,8 +63,22 @@
           img.nW(src="@/assets/curso/t1-ic1.svg", alt="imagen decorativa")
       .col-lg-10
         p Teniendo en cuenta la afirmación que la tecnología ha incluido nuevas formas de comunicación y se ha incluido en todos los entornos entre los seres humanos y por ende en la vida social de cada uno de nosotros, se debe tener en cuenta también que, la apropiación de las nuevas herramientas de comunicación y colaboración en línea no es un proceso endógeno, solo es una condición de necesidad causada, por ello se debe valorar los factores, ventajas y desventajas que posee para llevarlas a práctica desde lo social. Veamos a continuación un recurso que permitirá conocer más sobre este importante tema. 
-
-    //-- Aqui viene la imagen infografica
+    .row.mb-5.justify-content-center
+      .col-lg-8
+        ImagenInfografica.color-primario.mb-5
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/t1-info1.svg', alt='ejemplo del uso de la tecnología')
+          .tarjeta.color-b3.p-3.shadow-box(x="12%" y="30%")
+            p El intercambio permite establecer vínculos y relaciones para lograr un YO integral en la sociedad. 
+          .tarjeta.color-b3.p-3.shadow-box(x="6%" y="62%")
+            p Responsabilidad y ética social para compartir sentimiento, experiencias y anécdotas.
+          .tarjeta.color-b3.p-3.shadow-box(x="12%" y="92%")
+            p La forma de comunicarte y establecer estrechos lazos se da como un proceso natural al ser humano, por lo que, no es propio de la tecnología.         
+          .tarjeta.color-b3.p-3.shadow-box(x="93%" y="40%")
+            p El mundo digital crea los preceptos en todas las esferas sociales, millones de datos se comparten, divulgan.
+          .tarjeta.color-b3.p-3.shadow-box(x="93%" y="80%")
+            p La socialización tiende a delimitarse desde la interacción de un dispositivo. 
 
     .row.mb-5
       .col-lg-7
@@ -123,7 +137,18 @@
 
 
     p.mb-5  A continuación, podrás conocer una de las clasificaciones de las TIC:
-    //-- Aqui viene la imagen infografica
+    .row.mb-5.justify-content-center
+      .col-lg-8
+        ImagenInfografica.color-primario.mb-5
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/t1-info2.svg', alt='ejemplo del uso de la tecnología')
+          .tarjeta.color-b3.p-3.shadow-box(x="82%" y="27%")
+            p Permiten estructurar nuevos medios para la generación del aprendizaje.
+          .tarjeta.color-b3.p-3.shadow-box(x="90%" y="58%")
+            p Permite el envío y recepción de información para facilitar compartir cualquier tipo de información.       
+          .tarjeta.color-b3.p-3.shadow-box(x="82%" y="89%")
+            p Permiten compartir información desde cualquier esfera social, son participativas, posibilitan el intercambio y la generación de nuevas formas de interacción.            
 
     p.mb-5  Las TIC son utilizadas para gestionar información de todo tipo y son consideradas las más efectivas a la hora de comunicar y colaborar con contenidos en línea.
     .row.justify-content-center
