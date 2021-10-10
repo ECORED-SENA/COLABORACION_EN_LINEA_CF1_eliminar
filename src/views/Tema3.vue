@@ -52,7 +52,7 @@
 
     //-- ROW MODALS
     .row.mb-5.justify-content-center
-      .col-sm-4.col-md-4.col-lg-2
+      .col-5.col-lg-2
         .objBox
           a(@click="modal1 = true")
             figure(data-aos="flip-up")
@@ -67,7 +67,7 @@
               .h4 Educación
               p La forma como se aprenden los contenidos y se apropian para su comprensión, han cambiado los preceptos sociales de la educación en el binomio profesor-estudiante, la colaboración en línea y la creación de este tipo de plataformas ha potencializado esta área abriendo posibilidades en el ámbito educativo que llevan a reevaluar los procesos enseñanza-aprendizaje.
 
-      .col-sm-4.col-md-4.col-lg-2
+      .col-5.col-lg-2
         .objBox
           a(@click="modal2 = true")
             figure(data-aos="flip-up")
@@ -82,7 +82,7 @@
               .h4 Empresas
               p Generan espacios colaborativos entre sus proveedores y usuarios, facilitando el acceso a la nube, son muy fáciles de usar bajo el principio de integración y colaboración entre equipos de trabajo y solucionan problemas de manera más efectiva, permitiendo el seguimiento de los casos.
 
-      .col-sm-4.col-md-4.col-lg-2
+      .col-5.col-lg-2
         .objBox
           a(@click="modal3 = true")
             figure(data-aos="flip-up")
@@ -97,7 +97,7 @@
               .h4 Personal
               p Se han logrado avances importantes en cómo se genera la comunicación con los demás, los perfiles digitales permiten compartir información en diferentes formatos, llegando a todo tipo de público y encontrar alrededor del mundo personas con intereses comunes, la relación e intercambio de información va desde lo personal hasta lo profesional.
 
-      .col-sm-4.col-md-4.col-lg-2
+      .col-5.col-lg-2
         .objBox
           a(@click="modal4 = true")
             figure(data-aos="flip-up")
@@ -112,7 +112,7 @@
               .h4 Gestión de proyectos
               p Existen muchas plataformas para la gestión de proyectos, que permiten organizar el trabajo de forma ágil y flexible, buscan la efectividad y aumentar tu productividad como persona y como equipo de trabajo, incluyen características propias de seguimiento y cumplimiento automatizado que hace que las actividades realizadas sean mejor controladas, desde alertas, calendarios, hasta mensajes de correo electrónico o notificaciones en los dispositivos.
 
-      .col-sm-4.col-md-4.col-lg-2
+      .col-5.col-lg-2
         .objBox
           a(@click="modal5 = true")
             figure(data-aos="flip-up")

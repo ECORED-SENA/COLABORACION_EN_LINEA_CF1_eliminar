@@ -9,9 +9,7 @@
           i.fas.fa-info
       h1 Introducción
     .clearfix
-    br
-    br
-    br
+    .spacer
     .corner-box.color-b1.p-4.mb-5.m-custom
       .row.align-items-center
         .col-lg-3

@@ -6,8 +6,7 @@
       .titulo-principal__numero
         span 1
       h1 Las TIC en la comunicación y colaboración en línea
-    br
-    br
+    .spacer
     .corner-box.color-b3.p-4.mb-5.m-custom
       .row.align-items-center
         .col-lg-3
@@ -25,12 +24,40 @@
     //-- below Row card list
     .row.mb-5.justify-content-center
       .col-lg-2
+        figure(data-aos="flip-left")
+          img.nW(src="@/assets/curso/t1-n1.svg", alt="personaje animado")
+
+      .col-lg-2
+        figure(data-aos="flip-left")
+          img.nW(src="@/assets/curso/t1-n2.svg", alt="personaje animado")
+
+      .col-lg-2
+        figure(data-aos="flip-left")
+          img.nW(src="@/assets/curso/t1-n3.svg", alt="personaje animado")
+
+      .col-lg-2
+        figure(data-aos="flip-left")
+          img.nW(src="@/assets/curso/t1-n4.svg", alt="personaje animado")
+
+      .col-lg-2
+        figure(data-aos="flip-left")
+          img.nW(src="@/assets/curso/t1-n5.svg", alt="personaje animado")
 
     p.mb-5  Y se presentan en los diferentes dispositivos, como:
 
     //-- below Row card 2 list
     .row.mb-5.justify-content-center
       .col-lg-2
+        figure(data-aos="flip-up")
+          img.nW(src="@/assets/curso/t1-n6.svg", alt="personaje animado")
+
+      .col-lg-2
+        figure(data-aos="flip-up")
+          img.nW(src="@/assets/curso/t1-n7.svg", alt="personaje animado")
+
+      .col-lg-2
+        figure(data-aos="flip-up")
+          img.nW(src="@/assets/curso/t1-n8.svg", alt="personaje animado")
     
     p.mb-5(data-aos="slide-left")  En los móviles encontramos los smartphone, que hacen parte de la cotidianidad de cada uno de nosotros, de forma inmersiva e interactiva.
     .row.justify-content-center
@@ -121,7 +148,7 @@
       .col-lg-5
         figure(data-aos="fade-up")
           img.nW(src="@/assets/curso/t1-i4.jpg", alt="imagen decorativa")
-    br
+    .spacer
     .corner-box.color-b1.p-4.mb-5.m-custom.flipped-corners
       .row.align-items-center.justify-content-center
         .col-lg-8
@@ -130,7 +157,7 @@
             audio(controls='')
               source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')
               |  Your browser does not support the audio tag.
-        .col-lg-3
+        .col-lg-2
           .wrap-overflow
             figure(data-aos="flip-left")
               img(src="@/assets/curso/i1.png", alt="personaje animado")
