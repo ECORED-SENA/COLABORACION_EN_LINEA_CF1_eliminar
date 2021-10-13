@@ -15,8 +15,8 @@
             figure(data-aos="flip-left")
               img(src="@/assets/curso/t3-i1.png", alt="personaje animado")
         .col-lg-9
-          p.text-xl La penetración de los medios digitales y el uso de los dispositivos móviles, ha hecho que hoy en día encuentres muchas herramientas para poder comunicarte y te relaciones con los demás, 
-            span.text-normal la cultura digital te permite poder acceder a muchos recursos y así colaborar en espacios públicos y potenciar la inclusión y participación de un individuo como sociedad.
+          p.text-xl La penetración de los medios digitales y el uso de los dispositivos móviles, ha hecho que hoy en día existan muchas herramientas para poder comunicarse y relacionarse con los demás, 
+            span.text-normal pues la cultura digital permite acceder a muchos recursos, colaborar en espacios públicos y potenciar la inclusión y participación de un individuo como sociedad. 
           .wrap-player
             audio(controls='')
               source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')
@@ -30,7 +30,7 @@
         figure(data-aos="flip-left")
           img(src="@/assets/curso/t3-ic1.svg", alt="icono decorativo")
       .col-lg-10
-        p Se puede inferir en la definición de las herramientas y plataformas colaborativas en línea, como un sistema en el cual se pueden acceder a muchos servicios, donde cada uno de los usuarios pueden interrelacionarse, comunicarse y trabajar en equipo, sin necesidad de estar en un mismo espacio, tiempo o lugar, todas las herramientas colaborativas brindan soluciones intrínsecas según las preferencias y perfiles de quienes las usan.
+        p Aquí se puede definir que las herramientas y plataformas colaborativas en línea son un sistema en el que se pueden acceder a muchos servicios y en donde cada uno de los usuarios puede interrelacionarse, comunicarse y trabajar en equipo, sin necesidad de estar en un mismo espacio, tiempo o lugar; todas las herramientas colaborativas brindan soluciones intrínsecas según las preferencias y perfiles de quienes las usan.
     .row.justify-content-center
       .col-lg-10(data-aos="fade-left")
         .bloque-texto-a.color-acento-botones.p-4.p-md-5.mb-5 
@@ -40,12 +40,12 @@
                 img.nW(src="@/assets/curso/t3-i2.svg", alt="imagen decorativa")
             .col-lg-8
               .bloque-texto-a__texto.p-4
-                p La innovación en el mundo digital sobrepasa los límites de expansión en desarrollo de proyectos apoyados en el desarrollo tecnológico como modelo de consumo desde negocios hasta la educación, se han roto los paradigmas tradicionales de cómo te puedes relacionar o hacer tus actividades, se analizan las necesidades particulares en pro de mejorar experiencias de usuario en esferas sociales donde se busca una globalización de las cosas para beneficios comunes.
+                p La innovación en el mundo digital sobrepasa los límites de expansión de proyectos apoyados en el desarrollo tecnológico como modelo de consumo desde negocios hasta la educación, pues se han roto los paradigmas tradicionales de cómo se puede relacionar o hacer actividades, y esto permite analizar las necesidades particulares en pro de mejorar experiencias de usuario en esferas sociales donde se busca una globalización de las cosas para beneficios comunes.
     
     .row.mb-5
       .col-lg-7
-        p.mb-3(data-aos="fade-right")  Independientemente del uso que cada persona le pueda dar a las plataformas colaborativas, existe una sinergia en las interacciones desde lo social, económico, personal, profesional o personal, las cuales están diseñadas para minimizar los costos de operación y obtener muchos más beneficios, la puesta en marcha de estos nuevos modelos de compartir información toma valor en el cooperativismo por todos los actores que interactúan a través de una plataforma digital cambiando el paradigma sociocultural. Entre las más utilizadas están las siguientes plataformas colaborativas.
-        p.mb-3(data-aos="fade-right")  Los espacios virtuales centralizan sus funcionalidades a la gestión de todo tipo de información que va ligada a los requerimientos, necesidades y funcionamiento de las personas u organizaciones, en el mundo globalizado y digital; los usos que se les da, varían de acuerdo a los intereses de las personas para ser participantes activos de una comunidad, su objetivo principal radica en facilitar y optimizar la comunicación entre las personas y organizaciones generando un nuevo componente social: <b>“Tu identidad digital y el Yo Virtual”</b>, entre  las de mayor auge son:
+        p.mb-3(data-aos="fade-right")  Independientemente del uso que cada persona le pueda dar a las plataformas colaborativas, existe una sinergia en las interacciones desde lo social, económico, personal, profesional o personal, y que están diseñadas para minimizar los costos de operación y obtener muchos más beneficios; así, la puesta en marcha de estos nuevos modelos de compartir información toma valor pues los actores interactúan a través de una plataforma digital cambiando el paradigma sociocultural.
+        p.mb-3(data-aos="fade-right")  Los espacios virtuales centralizan sus funcionalidades en la gestión de todo tipo de información ligada a los requerimientos, necesidades y funcionamiento de las personas u organizaciones en el mundo globalizado y digital; así, los usos que se les da varían de acuerdo con los intereses de las personas para ser participantes activos de una comunidad, y su objetivo principal radica en facilitar y optimizar la comunicación entre las personas y organizaciones generando un nuevo componente social: <b>“tu identidad digital y el yo virtual”</b>; entre las de mayor auge son:
       .col-lg-5
         figure(data-aos="slide-left")
           img(src="@/assets/curso/t3-i3.jpg", alt="imagen decorativa")
@@ -65,7 +65,7 @@
                 img.nW(src='@/assets/curso/t3-im1.svg', alt='icono decorativo')
             .col-lg-10
               .h4 Educación
-              p La forma como se aprenden los contenidos y se apropian para su comprensión, han cambiado los preceptos sociales de la educación en el binomio profesor-estudiante, la colaboración en línea y la creación de este tipo de plataformas ha potencializado esta área abriendo posibilidades en el ámbito educativo que llevan a reevaluar los procesos enseñanza-aprendizaje.
+              p La forma como se aprenden los contenidos y se apropian para su comprensión han cambiado los preceptos sociales de la educación en el binomio profesor-estudiante, la colaboración en línea y la creación de este tipo de plataformas ha potencializado esta área generando posibilidades en el ámbito educativo que llevan a reevaluar los procesos enseñanza-aprendizaje.
 
       .col-5.col-lg-2
         .objBox
@@ -95,7 +95,7 @@
                 img.nW(src='@/assets/curso/t3-im3.svg', alt='icono decorativo')
             .col-lg-10
               .h4 Personal
-              p Se han logrado avances importantes en cómo se genera la comunicación con los demás, los perfiles digitales permiten compartir información en diferentes formatos, llegando a todo tipo de público y encontrar alrededor del mundo personas con intereses comunes, la relación e intercambio de información va desde lo personal hasta lo profesional.
+              p Se han logrado avances importantes en cómo se genera la comunicación con los demás, los perfiles digitales permiten compartir información en diferentes formatos, llegando a todo tipo de público y encontrar en el mundo personas con intereses comunes; la relación e intercambio de información va desde lo personal hasta lo profesional.
 
       .col-5.col-lg-2
         .objBox
@@ -110,7 +110,7 @@
                 img.nW(src='@/assets/curso/t3-im4.svg', alt='icono decorativo')
             .col-lg-10
               .h4 Gestión de proyectos
-              p Existen muchas plataformas para la gestión de proyectos, que permiten organizar el trabajo de forma ágil y flexible, buscan la efectividad y aumentar tu productividad como persona y como equipo de trabajo, incluyen características propias de seguimiento y cumplimiento automatizado que hace que las actividades realizadas sean mejor controladas, desde alertas, calendarios, hasta mensajes de correo electrónico o notificaciones en los dispositivos.
+              p Existen muchas plataformas para la gestión de proyectos que permiten organizar el trabajo de forma ágil y flexible, buscan la efectividad y aumentar la productividad como persona y como equipo de trabajo, incluyen características propias de seguimiento y cumplimiento automatizado que hace que las actividades realizadas sean mejor controladas, desde alertas, calendarios, hasta mensajes de correo electrónico o notificaciones en los dispositivos.
 
       .col-5.col-lg-2
         .objBox
@@ -125,7 +125,7 @@
                 img(src='@/assets/curso/t3-im5.svg', alt='icono decorativo')
             .col-lg-10
               .h4 Gobierno
-              p Como estrategias y políticas las administraciones públicas hacen uso de las plataformas colaborativas, generando espacios de servicio al ciudadano y tener de primera mano las percepciones de las personas y como estas llegan a cada usuario, la mejor forma de comunicar leyes, proyectos o información relevante han sido los medios digitales, para poder construir país de forma equitativa, estos sistemas de base tienen módulos y aplicaciones para que los usuarios puedan acceder
+              p Como estrategias y políticas las administraciones públicas hacen uso de las plataformas colaborativas, generando espacios de servicio al ciudadano para tener de primera mano las percepciones de las personas y como estas llegan a cada usuario, la mejor forma de comunicar leyes, proyectos o información relevante han sido los medios digitales para poder construir país de forma equitativa, estos sistemas de base tienen módulos y aplicaciones para que los usuarios puedan acceder.
 
 
     Separador
@@ -138,7 +138,7 @@
         figure(data-aos="flip-left")
           img(src="@/assets/curso/t3-ic2.svg", alt="icono decorativo")
       .col-lg-10
-        p Los avances tecnológicos y la aparición de los escenarios digitales han hecho que el ciudadano digital del siglo XXI, debe tener un conglomerado de habilidades, actitudes y conocimientos, <b>para que los individuos de una sociedad puedan participar en una sociedad democrática, haciendo uso de las TIC, de forma responsable, ética, libre y participativa</b>, teniendo control sobre sus deberes y derechos digitales y llevarlas hasta sus entornos personales y sociales.
+        p Los avances tecnológicos y la aparición de los escenarios digitales han hecho que el ciudadano digital del siglo XXI posea un conglomerado de habilidades, actitudes y conocimientos para participar en una sociedad democrática y haciendo uso de las TIC de forma responsable, ética, libre y participativa, teniendo control sobre sus deberes y derechos digitales en sus entornos personales y sociales.
     .row.justify-content-center
       .col-lg-10(data-aos="fade-left")
         .bloque-texto-a.color-acento-botones.p-4.p-md-5.mb-5 
@@ -148,9 +148,10 @@
                 img.nW(src="@/assets/curso/t3-i4.svg", alt="imagen decorativa")
             .col-lg-8
               .bloque-texto-a__texto.p-4.shadow-box(data-aos="fade-right")
-                p La ciudadanía digital invita a tener una mirada integradora que comprenda tanto su aprendizaje, buen uso, tu seguridad y amenazas a las cuales estás expuesto, asociados al mal uso o peligros del entorno digital, al igual que determinar de manera transparente las oportunidades ofrecen las nuevas tecnologías de información y comunicación TIC y de esta manera el ser social adquiera competencias ciudadanas para fortalecer la democracia.
-
-    p.mb-5  El uso responsable de las herramientas tecnológicas es una premisa que debe de tener el ciudadano digital del siglo XXI para poder relacionarse con sus semejantes en un tejido social, la empatía es un eje fundamental para ello, ya que con estos medios y herramientas no se tiene el contacto físico como tal se puede estar incurriendo en delitos o ser víctima de ellos, para ello, a continuación, se encuentran las diferentes dimensiones que están inmersos en ser buen ciudadano digital.
+                p.mb-3 La ciudadanía digital invita a tener una mirada integradora que comprenda tanto su aprendizaje, buen uso, seguridad y amenazas a las cuales estás expuesto, asociados al mal uso o peligros del entorno digital. 
+                p Al igual que determinar de manera transparente las oportunidades que ofrecen las nuevas tecnologías de información y comunicación – TIC y, de esta manera, el ser social adquiera competencias ciudadanas para fortalecer la democracia.
+    
+    p.mb-5  El uso responsable de las herramientas tecnológicas es una premisa que debe tener el ciudadano digital del siglo XXI para relacionarse con sus semejantes en un tejido social; así, la empatía es un eje fundamental para ello, ya que con estos medios y herramientas no se tiene el contacto físico como tal y se puede estar incurriendo en delitos o ser víctima de ellos. A continuación, se presentan las diferentes dimensiones de un buen ciudadano digital.
     TabsA.color-primario.mb-5
       .tarjeta.color-primario.p-4(titulo="Salud y bienestar digital")
         .row
@@ -230,7 +231,7 @@
         figure(data-aos="flip-left")
           img(src="@/assets/curso/t3-ic3.svg", alt="icono decorativo")
       .col-lg-10
-        p Las herramientas digitales cobijan todos los sectores ya sean públicas, personales o privadas, su uso responsable es particular dependiendo el campo de acción en las que se las use, estas incursionan de forma ágil y práctica para lograr mejor transparencia y buscan mejorar una convivencia digital efectiva. A continuación, se podrán conocer las herramientas desde el uso gubernamental, personal y empresarial.
+        p Las herramientas digitales cobijan todas las esferas ya sean públicas, personales o privadas, por eso, el uso responsable es particular dependiendo del campo de acción en las que apliquen, además, estas incursionan de forma ágil y práctica para lograr mejor transparencia y mejorar una convivencia digital efectiva. A continuación, se podrán conocer las herramientas desde el uso gubernamental, personal y empresarial. 
 
     TabsC.color-primario.mb-5
       .py-3.py-md-4(titulo="Herramientas gubernamentales")
@@ -264,6 +265,19 @@
                   img(src='@/assets/curso/t3-info3.svg', alt='imagen decorativa')
 
 
+    .corner-box.color-b1.p-4.mb-5.m-custom
+      .row.align-items-center
+        .col-lg-3
+          .wrap-overflow
+            figure(data-aos="flip-left")
+              img(src="@/assets/curso/t2-i2.png", alt="personaje animado")
+        .col-lg-9
+          p.text-xl Has terminado este proceso de formación en el cual podrás incorporar a tu vida las tecnologías de información y comunicación bajo las transformaciones de la sociedad actual, centradas en la comunicación y colaboración en línea. 
+          .wrap-player
+            audio(controls='')
+              source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')
+              |  Your browser does not support the audio tag.
+    br
 
 
 
