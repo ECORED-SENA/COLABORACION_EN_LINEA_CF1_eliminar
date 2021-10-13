@@ -12,19 +12,19 @@
         figure(data-aos="flip-left")
           img.nW(src="@/assets/curso/t2-ic1.svg", alt="imagen decorativa")
       .col-lg-10
-        p Las personas cuando ingresan a la red no solo quieren consumir recursos y servicios, cuando estas se conectan, lo hacen principalmente para comunicarse y para poder subir contenidos y estar más presentes digitalmente. <b>De manera constante se está colaborando con los demás, esto hace que se generen habilidades y competencias de trabajo en equipo y aprendizaje continuo.</b>
+        p Las personas cuando ingresan a la red no solo quieren consumir recursos y servicios, pues cuando estas se conectan, lo hacen principalmente para comunicarse y poder subir contenidos y estar más presentes digitalmente. Y de manera constante se está colaborando con los demás, esto hace que se generen habilidades y competencias de trabajo en equipo y aprendizaje continuo.
     .row.justify-content-center
       .col-lg-10(data-aos="fade-left")
         .bloque-texto-a.color-acento-botones.p-3.p-md-5.mb-5.dir-ltr
           .row.m-0.align-items-center.justify-content-between
             .col-lg-8
               .bloque-texto-a__texto.p-4.shadow-box
-                p Las herramientas y recursos que se proporcionan para la comunicación y colaboración en línea aprovechan diferentes formas y entornos desde los servicios de voz, video y teleconferencias en las actividades de colaboración. La capacidad de colaborar en línea mejora todos los procesos comunicacionales de los usuarios, se hace de forma rápida y sencilla, rompiendo barreras y fronteras, esto logra que tu efectividad e innovación sea mucho más productiva en cualquier campo de aplicación
+                p Las herramientas y recursos que se proporcionan para la comunicación y colaboración en línea aprovechan diferentes formas y entornos desde los servicios de voz, video y teleconferencias en las actividades de colaboración. Así, la capacidad de colaborar en línea mejora todos los procesos comunicacionales de los usuarios, pues esta se hace de forma rápida y sencilla, rompiendo barreras y fronteras, y logra que su efectividad e innovación sean mucho más productiva en cualquier campo de aplicación.
             .col-lg-4.mb-4.mb-lg-0
               figure(data-aos="flip-left")
                 img.nW(src="@/assets/curso/t2-i1.svg", alt="imagen decorativa")
 
-    p.mb-5  La construcción de nuevos conocimientos y la colaboración en línea permiten el desenvolvimiento en entornos de comunicación fluidos, de forma autónoma y determinando la gestión de servicios como pieza clave en el mundo digital. Comunicarse y compartir recursos son habilidades que debes de dominar a través de las metodologías activas y los avances informáticos posibilitan dichas labores en todos los entornos digitales.
+    p.mb-5  La construcción de nuevos conocimientos y la colaboración en línea permiten el desenvolvimiento en entornos de comunicación fluidos, de forma autónoma y determinando la gestión de servicios como pieza clave en el mundo digital. Comunicarse y compartir recursos son habilidades que se deben dominar a través de las metodologías activas y así es como los avances informáticos posibilitan dichas labores en los entornos digitales.
     br
     .corner-box.color-b2.p-4.mb-5.m-custom
       .row.align-items-center
@@ -33,8 +33,8 @@
             figure(data-aos="flip-left")
               img(src="@/assets/curso/t2-i2.png", alt="personaje animado")
         .col-lg-9
-          p.text-xl ¿Conoces las características claves para la comunicación y colaboración en línea? 
-            span.text-normal Te invito a conocer sobre estos recursos:
+          p.text-xl ¿Conoces las características clave para la comunicación y colaboración en línea? 
+            span.text-normal Pues bien, ahora te invitamos a conocer sobre estos recursos:
           .wrap-player
             audio(controls='')
               source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')
@@ -82,7 +82,7 @@
             p.mb-0  Compartir todo tipo de información y contenidos digitales de manera colaborativa.
           li(data-aos="flip-up")
             i.fas.fa-check
-            p.mb-0  Participar en comunidades virtuales, ya sean personales, públicas o privadas, para encontrar las herramientas y tecnologías más adecuadas.
+            p.mb-0  Participar en comunidades virtuales, ya sean personales, públicas o privadas para encontrar las herramientas y tecnologías más adecuadas.
           li(data-aos="flip-up")
             i.fas.fa-check
             p.mb-0  Usar herramientas y tecnologías digitales para la colaboración.
@@ -94,7 +94,7 @@
             p.mb-0  Tener un comportamiento en la red adecuado para tener una buena comunicación.
           li(data-aos="flip-up")
             i.fas.fa-check
-            p.mb-0  Tener una identidad digital siendo parte de una comunidad en línea teniendo en cuenta la importancia de la protección en el mundo digital.
+            p.mb-0  Poseer una identidad digital siendo parte de una comunidad en línea teniendo en cuenta la importancia de la protección en el mundo digital.
 
 
 
@@ -106,17 +106,17 @@
         .bloque-texto-a.color-acento-botones.p-4.p-md-5.mb-5 
           .row.m-0.align-items-center.justify-content-between
             .col-lg-4.mb-4.mb-lg-0
-              .h4 ¿Sabías que las nuevas metodologías activas del siglo XXI, han requerido que los medios de comunicación se amplíen con los canales de interacción?
+              .h4 Las nuevas metodologías activas del siglo XXI han requerido que los medios de comunicación se amplíen con los canales de interacción.
             .col-lg-8
               .bloque-texto-a__texto.p-4.shadow-box
-                p Allí se necesita que los actores involucrados en estos procesos sean parte cooperante y colaborativa, exigiendo que te vuelvas el propio protagonista de lo que comunicas y desarrolles en estos medios digitales, por su inmediatez dichos procesos comunicativos favorecen sustancialmente la posibilidad de aumentar tus conocimientos. 
+                p Allí se necesita que los actores involucrados en estos procesos sean parte cooperante y colaborativa, exigiendo que cada quien se convierta en el propio protagonista de lo que comunica y desarrolle en estos medios digitales, por su inmediatez dichos procesos comunicativos favorecen sustancialmente la posibilidad de aumentar tus conocimientos.
     
     .corner-box.color-b3.p-4.mb-5.m-custom.flipped-corners
       .row.align-items-center.justify-content-center
         .col-lg-8
           p.text-xl 
-            span.text-normal  Es así como las diversas herramientas digitales de comunicación te dan un abanico de opciones para poder analizarlas y clasificarlas según su uso y puedas escoger las más idóneas. Teniendo en cuenta la forma de cómo se puede intercambiar información y en el tiempo que estas se realicen, se puede tener dos tipos de comunicación: 
-            span Te invito a conocer su clasificación. 
+            span.text-normal  Es así como las diversas herramientas digitales de comunicación te dan un abanico de opciones para analizarlas y clasificarlas según su uso y escoger las más idóneas.  
+            span Teniendo en cuenta la forma de cómo se puede intercambiar información y en el tiempo que estas se realicen, se puede tener dos tipos de comunicación: sincrónicas y asincrónicas, esto es, en función de la simultaneidad con la que se envía y recibe cada mensaje. 
           .wrap-player
             audio(controls='')
               source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')
@@ -132,7 +132,7 @@
         figure(data-aos="flip-left")
           img.nW(src="@/assets/curso/t2-ic2.svg", alt="imagen decorativa")
       .col-lg-10(data-aos="flip-right")
-        p En todo proceso de comunicación y participativo en medios digitales, la comunicación sincrónica y asincrónica toman un valor relevante, ya que las dos formas dan mejores posibilidades de cómo comunicarse con quien se desee y en el momento que se desee, ya sea por medio de mensajería, chats, foros entre otros; que conozcas las posibilidades de las herramientas de comunicación será vital para que puedas elegir las que más se ajuste a tus actividades y sea relevante a la hora de compartir y comunicar.
+        p En todo proceso de comunicación y participativo en medios digitales, la comunicación sincrónica y asincrónica toma un valor relevante, ya que las dos formas dan mejores posibilidades de cómo comunicarse con quien se desee y en el momento que se quiera, ya sea por medio de mensajería, chats, foros entre otros; así, el conocer las posibilidades de las herramientas de comunicación será vital para elegir las que más se ajuste a las actividades y sea relevante a la hora de compartir y comunicar.
     .corner-box.color-b1.p-4.mb-5.m-custom
       .row.align-items-center
         .col-lg-3
@@ -140,8 +140,8 @@
             figure(data-aos="flip-left")
               img(src="@/assets/curso/t2-i5.png", alt="personaje animado")
         .col-lg-9
-          p.text-xl ¿Conoces la diversidad de herramientas la diversidad de herramientas digitales? 
-            span.text-normal Te invito a conocer su clasificación. 
+          p.text-xl ¿Sabes acerca de la diversidad de herramientas digitales?  
+            span.text-normal Te invitamos a conocer su clasificación. 
           .wrap-player
             audio(controls='')
               source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')
@@ -211,7 +211,7 @@
                   p Permite subir a la nube información para que se pueda acceder desde diferentes dispositivos.
 
     h3.titulo-tercero Acceso al mundo digital
-    p.mb-5  Los accesos y herramientas al mundo digital generan brechas que han propiciado diversos cambios en la sociedad actual, han transformado la forma como se genera la comunicación con los demás, de relacionarse, frente a las compras o venta de productos, cómo se aprende y hasta su utilización en entornos laborales, incluyendo entre ellas, el ocio y el entretenimiento.
+    p.mb-5  Los accesos y herramientas del mundo digital generan brechas que han propiciado diversos cambios en la sociedad actual, han transformado la forma como se genera la comunicación con los demás, de relacionarse, frente a las compras o venta de productos, cómo se aprende y hasta su utilización en entornos laborales, incluyendo entre ellas, el ocio y el entretenimiento.
     TabsC.color-acento-contenido.mb-5
       .py-3.py-md-4(titulo="Interacción en el mundo digital")
         .row.justify-content-center
@@ -273,8 +273,8 @@
             figure(data-aos="flip-left")
               img(src="@/assets/curso/t2-i6.png", alt="personaje animado")
         .col-lg-9
-          p.text-xl El mundo digital se puede explorar por medio de un dispositivo electrónico ya sea portable o fijo, en el cual se posea una conexión para explorar todo lo que esté al alcance y se quiera.  
-            span.text-normal La gran convergencia del uso masivo de dichos dispositivos inteligentes, en especial el uso de celulares como los smartphones, y la aparición de las redes de datos cada vez más veloces, hace que todos los servicios de navegación en la red se puedan consumir en cualquier lugar y hora.
+          p.text-xl El mundo digital se puede explorar por medio de un dispositivo electrónico ya sea portátil o fijo que posea una conexión para explorar todo lo que esté al alcance y se quiera.  
+            span.text-normal La gran convergencia del uso masivo de dichos dispositivos inteligentes, en especial el uso de celulares como los smartphones, y la aparición de las redes de datos cada vez más veloces, hacen que todos los servicios de navegación en la red se puedan consumir en cualquier lugar y hora.
           .wrap-player
             audio(controls='')
               source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')
@@ -286,17 +286,17 @@
           .row.m-0.align-items-center.justify-content-between
             .col-lg-8
               .bloque-texto-a__texto.p-4.shadow-box
-                p.mb-3  Para poder acceder a toda la información que hay en internet basta con dar clic o pulsar touch en los enlaces que se encuentran en las diferentes páginas electrónicas, lo que permite ingresar a un mundo de opciones según las necesidades.
-                p.mb-4  Para navegar en la red, ten en cuenta:
+                p.mb-3  Para poder acceder a toda la información que hay en internet basta con dar clic o pulsar <i>touch</i> en los enlaces que se encuentran en las diferentes páginas electrónicas, lo que permite ingresar a un mundo de opciones según las necesidades.
+                p.mb-4  Para navegar en la red, se debe:
                 ol.lista-ol--cuadro
                   li 
                     .lista-ol--cuadro__vineta
                       span 1
-                    p.mb-0 Tener la última versión de tus navegadores.
+                    p.mb-0 Tener la última versión de los navegadores.
                   li 
                     .lista-ol--cuadro__vineta
                       span 2
-                    p.mb-0 Configurar la página de home de tu navegador con un buscador de confianza.
+                    p.mb-0 Configurar la página de home del navegador con un buscador de confianza.
                   li 
                     .lista-ol--cuadro__vineta
                       span 3
@@ -304,7 +304,7 @@
                   li 
                     .lista-ol--cuadro__vineta
                       span 4
-                    p.mb-0  Poner en favoritos las páginas que más visites. 
+                    p.mb-0  Poner en favoritos las páginas que más se visiten. 
                   li 
                     .lista-ol--cuadro__vineta
                       span 5
@@ -312,15 +312,15 @@
                   li 
                     .lista-ol--cuadro__vineta
                       span 6
-                    p.mb-0  Evitar usar las opciones de atrás y adelante, esto aumenta el tráfico de datos.                    
+                    p.mb-0  Evitar usar las opciones de atrás y adelante, pues esto aumenta el tráfico de datos.                   
                   li 
                     .lista-ol--cuadro__vineta
                       span 7
-                    p.mb-0  Aceptar plugin o cookies de sitios de confianza. 
+                    p.mb-0  Aceptar los <i>plugin o cookies</i> de sitios de confianza.
                   li 
                     .lista-ol--cuadro__vineta
                       span 8
-                    p.mb-0  Utiliza pestañas de navegación para optimizar la navegación.                    
+                    p.mb-0 Utilizar pestañas de navegación para optimizar la navegación.                    
 
 
             .col-lg-4.mb-4.mb-lg-0
@@ -335,8 +335,8 @@
             figure(data-aos="fade-up")
               img.nW(src="@/assets/curso/t2-i8.png", alt="personaje animado")
         .col-lg-9
-          p.text-xl ¿Sabes de las exposiciones a las cuales estás expuesto sobre los peligros y amenazas que ponen en peligro tu información e integridad?, 
-            span.text-normal te invito a conocer algunos consejos y principios de seguridad prácticos para la navegación.
+          p.text-xl ¿Conoces los peligros y amenazas que ponen en peligro tu información e integridad?  
+            span.text-normal Aquí te damos algunos consejos y principios de seguridad prácticos para que navegues de forma segura.
           .wrap-player
             audio(controls='')
               source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')
@@ -413,8 +413,8 @@
               figure
                 img(src='@/assets/curso/t3-s10.png', alt='imagen decorativa')  
 
-    h3.titulo-tercero Servicios de Internet
-    p.mb-5  La red posee una gran cantidad de servicios, que son aplicables de acuerdo con las funcionalidades que estos prestan para poder realizar todas las actividades digitales, entre los más utilizados están:
+    h3.titulo-tercero Servicios de internet
+    p.mb-5  La red posee una gran cantidad de servicios que son aplicables de acuerdo con las funcionalidades que estos prestan para poder realizar todas las actividades digitales, entre los más utilizados están:
     .neg-margin-x.bg-soft-green.mb-5
       .tarjeta.p-4.mb-5
         SlyderA

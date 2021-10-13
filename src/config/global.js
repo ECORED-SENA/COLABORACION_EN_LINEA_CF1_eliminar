@@ -29,7 +29,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Características  y clasificación de las TIC',
+            titulo: 'Características y clasificación de las TIC',
             hash: 't_1_1',
           },
           {

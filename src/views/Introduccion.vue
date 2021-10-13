@@ -18,7 +18,7 @@
               img.nW(src="@/assets/curso/i0.png", alt="personaje animado")
         .col-lg-9
           p.text-xl ¿Conoces los hitos que han marcado las formas de comunicación y las diferentes transformaciones frente al comportamiento de las personas en la utilización de herramientas digitales? 
-            span.text-normal Ingresa al siguiente recurso, donde te explicaremos sobre ello. 
+            span.text-normal En el siguiente recurso, se explica sobre ello. 
           .wrap-player
             audio(controls='')
               source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')
