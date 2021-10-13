@@ -160,7 +160,7 @@
               img.nW(src="@/assets/curso/t3-t1.svg", alt="icono decorativo")
           .col-lg-10
             .h4 Salud y bienestar digital
-            p Tener cuidado sobre la salud física y mental asociado al uso prolongado de dispositivos electrónicos, la adicción y la dependencia digital es común en el día a día, por ello, se debe tener cuidado que los entornos virtuales lo saquen de la realidad.
+            p Tener cuidado sobre la salud física y mental asociado al uso prolongado de dispositivos electrónicos, pues la adicción y la dependencia digital es común en el día a día, por ello, se debe tener cuidado que los entornos virtuales no te saquen de la realidad.
 
       .tarjeta.color-primario.p-4(titulo="Alfabetización digital")
         .row
@@ -169,7 +169,7 @@
               img.nW(src="@/assets/curso/t3-t2.svg", alt="icono decorativo")
           .col-lg-10
             .h4 Alfabetización digital
-            p Conoce las nuevas herramientas tecnologías, para que se usen según las necesidades, desarrollando habilidades y competencias de su buen uso.
+            p Conoce las nuevas herramientas tecnologías para que se usen según las necesidades, desarrollando habilidades y competencias de su buen uso.
 
       .tarjeta.color-primario.p-4(titulo="Seguridad digital")
         .row
@@ -178,7 +178,7 @@
               img.nW(src="@/assets/curso/t3-t3.svg", alt="icono decorativo")
           .col-lg-10
             .h4 Seguridad digital
-            p Toma las precauciones necesarias para que la integridad no se vea en riesgo, proteja la información sensible para que terceros hagan uso indebido de la información publicada.
+            p Toma las precauciones necesarias para que la integridad no se vea en riesgo, protege la información sensible para que terceros no hagan uso indebido de la información publicada.
 
       .tarjeta.color-primario.p-4(titulo="Acceso digital")
         .row
@@ -187,7 +187,7 @@
               img.nW(src="@/assets/curso/t3-t4.svg", alt="icono decorativo")
           .col-lg-10
             .h4 Acceso digital
-            p Observa, comparte e interactúa de forma responsable, un ciudadano digital debe tener competencias que integran el comportamiento que se tiene con los demás.
+            p Aprovecha todos los beneficios que tienen las plataformas digitales, el mundo digital es bastante amplio e igualmente las oportunidades.
 
       .tarjeta.color-primario.p-4(titulo="Comunicación digital")
         .row
@@ -196,7 +196,7 @@
               img.nW(src="@/assets/curso/t3-t5.svg", alt="icono decorativo")
           .col-lg-10
             .h4 Comunicación digital
-            p Observa, comparte e interactúa de forma responsable, un ciudadano digital debe tener competencias que integran el comportamiento que se tiene con los demás.
+            p Observa, comparte e interactúa de forma responsable; un ciudadano digital debe tener competencias que integran el comportamiento que se tiene con los demás.
 
       .tarjeta.color-primario.p-4(titulo="Comercio digital")
         .row
@@ -214,7 +214,7 @@
               img.nW(src="@/assets/curso/t3-t7.svg", alt="icono decorativo")
           .col-lg-10
             .h4 Leyes y responsabilidad digital
-            p Comportarse según las normas y el uso ético de la información, el acceso a la información es ilimitado y público, úsalo de manera responsable con habilidades éticas y de autocuidado. 
+            p Comportarse según las normas y el uso ético de la información, el acceso a la información es ilimitado y público, úsala de manera responsable con habilidades éticas y de autocuidado. 
 
 
 
@@ -238,7 +238,8 @@
         .row.justify-content-center
           .col-md-10.mb-4.mb-md-0
             h4 Herramientas gubernamentales
-            p.mb-4 Las estrategias de un gobierno digital o e-Gobierno radica en mejorar las comunicaciones estado - población - instituciones haciendo uso de las nuevas  tecnologías de información y comunicación y sacarles el mejor provecho en la generación de democracia, para agilizar trámites o promover la transparencia, entre las herramientas del gobierno digital te podrás encontrar con:
+            p.mb-4 Las estrategias de un gobierno digital o e-Gobierno radican en mejorar las comunicaciones Estado - población - instituciones haciendo uso de las nuevas  tecnologías de información y comunicación y sacarles el mejor provecho en la generación de democracia, para agilizar trámites o promover la transparencia. Entre las herramientas del gobierno digital te podrás encontrar con:
+
             .row.justify-content-center
               .col-lg-12
                 figure
@@ -248,7 +249,7 @@
         .row.justify-content-center
           .col-md-10.mb-4.mb-md-0
             h4 Herramientas personales
-            p.mb-4 Dentro de las herramientas digitales de uso personal, el campo de acción es bastante amplio, ya que buscan ayudar a compartir información y pueda llegar a todo tipo de personas, entre las mas comunes están:
+            p.mb-4 Dentro de las herramientas digitales de uso personal, el campo de acción es bastante amplio, ya que buscan ayudar a compartir información y pueda llegar a todo tipo de personas, entre las más comunes están:
             .row.justify-content-center
               .col-lg-12
                 figure.slideInLeft
@@ -272,7 +273,7 @@
             figure(data-aos="flip-left")
               img(src="@/assets/curso/t2-i2.png", alt="personaje animado")
         .col-lg-9
-          p.text-xl Has terminado este proceso de formación en el cual podrás incorporar a tu vida las tecnologías de información y comunicación bajo las transformaciones de la sociedad actual, centradas en la comunicación y colaboración en línea. 
+          p.text-xl La empresa no es ajena a los grandes avances tecnológicos, así, hoy en día existen gran cantidad de herramientas que ayudan a posicionar en el mercado las empresas y mejorar su productividad, entre ellas se pueden mencionar: 
           .wrap-player
             audio(controls='')
               source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')
