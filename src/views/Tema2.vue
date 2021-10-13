@@ -45,7 +45,7 @@
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
             .h4 Apropiación de las competencias digitales
-            p Para apropiar el conocimiento de manera efectiva, se debe ser parte activa en el desarrollo de competencias digitales, e igualmente tener una definición clara de la comunicación y colaboración digital. Las cuales se pueden traducir en las acciones o actividades que un individuo desarrolla en un entorno digital, que no es otra que la forma de poder expresarse, intercambiar, o interactuar con las demás personas en entornos virtuales, trasladando los entornos físicos y por ende, se requiere de un conglomerado de conocimientos y habilidades para poderte comunicar y compartir con los demás.
+            p Para apropiar el conocimiento de manera efectiva se debe ser parte activa en el desarrollo de competencias digitales y tener una definición clara de la comunicación y colaboración digital; estas que se pueden traducir en las acciones o actividades que un individuo desarrolla en un entorno digital, que no es otra cosa que la forma de expresarse, intercambiar o interactuar con otras personas en entornos virtuales, trasladando los entornos físicos y, por ende, se requiere de un conglomerado de conocimientos y habilidades para comunicarse y compartir con los demás.
           .col-md-4
             figure.slideInRight
               img(src='@/assets/curso/t2-t1.svg', alt='imagen decorativa')
@@ -53,7 +53,7 @@
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
             .h4 Comunicación digital
-            p La comunicación digital a más de ser de tipo personal, va mucho más allá frente a las posibilidades que estas brindan, los entornos digitales permiten una serie de ventajas que se encuentran ligadas a las oportunidades. El uso constante y creciente de herramientas colaborativas en línea supone nuevos retos de poder compartir, crear y divulgar información a través de las diferentes plataformas existentes, por ejemplo, Facebook, Twitter, YouTube entre otras.
+            p La comunicación digital, a más de ser de tipo personal, va mucho más allá frente a las posibilidades que estas brindan, pues los entornos digitales permiten una serie de ventajas que se encuentran ligadas a las oportunidades. El uso constante y creciente de herramientas colaborativas en línea suponen nuevos retos de compartir, crear y divulgar información a través de las diferentes plataformas existentes, por ejemplo, Facebook, Twitter, YouTube, entre otras.
           .col-md-4
             figure.slideInRight
               img(src='@/assets/curso/t2-t2.svg', alt='imagen decorativa')
@@ -62,7 +62,7 @@
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
             .h4 La vida digital
-            p La realidad actual, es clara, cada vez se ve en aumento dichos entornos virtuales y digitales, lo que presume que la base de la sociedad está cambiando y acoplándose a las nuevas tendencias informáticas, ha volcado todas las actividades sociales y la forma de hacer las cosas y combinadas con la vida digital.
+            p La realidad actual es clara, pues cada vez se ve en aumento dichos entornos virtuales y digitales, lo que hace presumir que la base de la sociedad está cambiando y acoplándose a las nuevas tendencias informáticas, que ha volcado todas las actividades sociales y la forma de hacer las cosas y combinadas con la vida digital.
           .col-md-4
             figure.slideInRight
               img(src='@/assets/curso/t2-t3.svg', alt='imagen decorativa')
@@ -152,7 +152,7 @@
         .row.justify-content-center
           .col-md-12.mb-4.mb-md-0
             h4 Herramientas síncronas
-            p.mb-4 Te permiten tener una comunicación en tiempo real, para ello los individuos involucrados deben de tener una conexión al mismo momento.
+            p.mb-4 Te permiten tener una comunicación en tiempo real, para ello los individuos involucrados deben tener una conexión al mismo momento.
             .row.justify-content-center
               .col-lg-3
                 .tarjeta.color-p1.text-center.p-4.h-100(data-aos="flip-up")
@@ -165,45 +165,52 @@
                   figure
                     img.nW.centered(src="@/assets/curso/t3-c2.svg", alt="icono decorativo")
                   h3  Videoconferencia
-                  p Comunicación mediante audio y video de forma simultánea.
+                  p Comunicación mediante audio y video de forma simultánea. 
               .col-lg-3
                 .tarjeta.color-p1.text-center.p-4.h-100(data-aos="flip-up")
                   figure
                     img.nW.centered(src="@/assets/curso/t3-c3.svg", alt="icono decorativo")
                   h3  Pizarra digital
-                  p Conversaciones con audio y video de forma simultanea para clases y reuniones.
+                  p Conversaciones con audio y video de forma simultánea para clases y reuniones.
               .col-lg-3
                 .tarjeta.color-p2.text-center.p-4.h-100(data-aos="flip-up")
                   figure
                     img.nW.centered(src="@/assets/curso/t3-c4.svg", alt="icono decorativo")
                   h3  Mensajería instantánea
-                  p Comunicación de mensajes escritos, audios y videos en tiempo real.
+                  p Comunicación de mensajes escritos, audios y videos en tiempo real. 
 
       .py-3.py-md-4(titulo="Herramientas asíncronas")
         .row.justify-content-center
           .col-md-12.mb-4.mb-md-0
             h4 Herramientas asíncronas
-            p.mb-4 Te permiten tener una comunicación en tiempo real, para ello los individuos involucrados deben de tener una conexión al mismo momento.
+            p.mb-4 La comunicación asincrónica es la que se permite en tiempo compartido y no hay necesidad que los participantes involucrados estén conectados al mismo tiempo.
             .row.justify-content-center
-              .col-lg-3
+              .col-lg-4
                 .tarjeta.color-p1.text-center.p-4.h-100(data-aos="flip-up")
                   figure
                     img.nW.centered(src="@/assets/curso/t3-c5.svg", alt="icono decorativo")
                   h3  Correo electrónico
-                  p Permite enviar y recibir información de manera instantánea. <br>Lista de distribución: permite enviar mensajes a partir de categorías de usuario.
-              .col-lg-3
+                  p Permite enviar y recibir información de manera instantánea.
+              .col-lg-4
+                .tarjeta.color-p2.text-center.p-4.h-100(data-aos="flip-up")
+                  figure
+                    img.nW.centered(src="@/assets/curso/t3-c6.svg", alt="icono decorativo")
+                  h3  Lista de distribución
+                  p Posibilita enviar mensajes a partir de categorías de usuario. 
+              .col-lg-4
                 .tarjeta.color-p2.text-center.p-4.h-100(data-aos="flip-up")
                   figure
                     img.nW.centered(src="@/assets/curso/t3-c6.svg", alt="icono decorativo")
                   h3  Foros
-                  p Aplicación que permite la discusión y opiniones en línea. 
-              .col-lg-3
+                  p Aplicación que permite la discusión y opiniones en línea.  
+              .clearfix.mb-4
+              .col-lg-4
                 .tarjeta.color-p1.text-center.p-4.h-100(data-aos="flip-up")
                   figure
                     img.nW.centered(src="@/assets/curso/t3-c7.svg", alt="icono decorativo")
                   h3  Wikis
                   p Son webs que permite la edición de contenido de manera colaborativa.
-              .col-lg-3
+              .col-lg-4
                 .tarjeta.color-p2.text-center.p-4.h-100(data-aos="flip-up")
                   figure
                     img.nW.centered(src="@/assets/curso/t3-c8.svg", alt="icono decorativo")
@@ -220,7 +227,9 @@
               img.nW.centered(src="@/assets/curso/t2-i6.jpg", alt="icono decorativo")
           .col-md-6.mb-4.mb-md-0
             h4 Interacción en el mundo digital
-            p El mundo cambia y seguirá tomando nuevos rumbos de forma sustancial y acelerada encaminado a ser más digital, ya que millones de personas tienen acceso ilimitado a internet a través de los dispositivos como computadores, celulares, tabletas e incluso televisores de tipo Smart y las innumerables herramientas y aplicaciones que presentan múltiples posibilidades de estar conectados y en constante comunicación de forma permanente. Esta posibilidad de comunicación de forma inmediata con las demás personas ha permitido obtener información al instante de todo lo que pasa alrededor y en el mundo, al igual que aprender, enseñar, adquirir productos y servicios y las nuevas oportunidades en todas las esferas de la sociedad en cualquier momento y lugar.   
+            p.mb-3 El mundo cambia y seguirá tomando nuevos rumbos de forma sustancial y acelerada encaminado a ser más digital, ya que millones de personas tienen acceso ilimitado a internet a través de los dispositivos como computadores, celulares, tabletas e incluso televisores de tipo Smart y las innumerables herramientas y aplicaciones que presentan múltiples posibilidades de estar conectados y en constante comunicación de forma permanente. 
+            p Esta posibilidad de comunicación de forma inmediata con las demás personas ha permitido obtener información al instante de todo lo que pasa en el mundo, al igual que aprender, enseñar, adquirir productos y servicios y las nuevas oportunidades en todas las esferas de la sociedad en cualquier momento y lugar.
+
           
       .py-3.py-md-4(titulo="Inclusión en el mundo digital")
         .row.justify-content-center
@@ -229,7 +238,7 @@
               img.nW.centered(src="@/assets/curso/t2-i6.jpg", alt="icono decorativo")
           .col-md-6.mb-4.mb-md-0
             h4 Inclusión en el mundo digital
-            p El mundo digital debe ser inclusivo, su acceso es ilimitado y público, para que así se pueda acceder a él sin restricciones y cuando se esté preparado, para ellos es importante que tener en cuenta que la información está al alcance de la mano y sería deseable que el conocimiento generado con dicha información pueda ser compartido.
+            p El mundo digital debe ser inclusivo, su acceso es ilimitado y público para que así se pueda acceder a él sin restricciones y cuando se esté preparado, para ellos es importante que tener en cuenta que la información está al alcance de la mano y sería deseable que el conocimiento generado con dicha información pueda ser compartido.
 
       .py-3.py-md-4(titulo="Brecha digital")
         .row.justify-content-center
@@ -238,17 +247,17 @@
               img.nW.centered(src="@/assets/curso/t2-i6.jpg", alt="icono decorativo")
           .col-md-6.mb-4.mb-md-0
             h4 Brecha digital
-            p.mb-3 No se puede dejar de lado, y mucho menos ignorar, que muchas veces la ignorancia tecnológica genera una brecha digital. A lo cual, se le debe dar solución por medio de iniciativas que den cabida a cualquier individuo al <b>nuevo mundo digital</b>, tomando como referente lo siguiente:
+            p.mb-3 No se puede dejar de lado, y mucho menos ignorar que, muchas veces, la ignorancia tecnológica genera una brecha digital. A esto se le debe dar solución por medio de iniciativas que den cabida a cualquier individuo al <b>nuevo mundo digital</b>, tomando como referente lo siguiente:
             ul.lista-ul
               li
                 i.fas.fa-check
-                p <b>Alfabetización digital</b>, como competencia básica y se debe de garantizar que todas las personas logren aprender a utilizar de forma adecuada las herramientas tecnológicas que mejoran nuestra calidad de vida.
+                p <b>Alfabetización digital</b>: se debe garantizar que todas las personas logren aprender a utilizar de forma adecuada las herramientas tecnológicas que mejoran la calidad de vida.
               li
                 i.fas.fa-check
-                p <b>Mejorar el aprovechamiento y el acceso a Internet</b>, para poder estar inmersos en los cambios digitales y ser parte del mundo digital se debe garantizar que se pueda tener una conexión en todos los rincones del planeta, muchos países han adoptado medidas públicas en parques, bibliotecas, colegios, universidades, lo cual acerca a todas las posibilidades de ser parte de este nuevo fenómeno social para lograr una inclusión social completa.
+                p <b>Mejorar el aprovechamiento y el acceso a Internet</b>; para estar inmersos en los cambios digitales y ser parte del mundo digital se debe garantizar una conexión en todos los rincones del planeta, muchos países han adoptado medidas públicas de conexión a internet en parques, bibliotecas, colegios, universidades, lo que acerca a todas las posibilidades de ser parte de este nuevo fenómeno social para lograr una inclusión social completa.
               li
                 i.fas.fa-check
-                p <b>Ofrecer contenidos en Internet que sean fáciles y accesibles</b>, la información debe ser simple y pensada para todo tipo de personas, edades, costumbres como eje social del conocimiento  
+                p <b>Ofrecer contenidos en internet que sean fáciles y accesibles</b>, la información debe ser simple y pensada para todo tipo de personas, edades, costumbres, etc., como eje social del conocimiento. 
 
       .py-3.py-md-4(titulo="Conexión en el mundo digital")
         .row.justify-content-center
@@ -257,7 +266,7 @@
               img.nW.centered(src="@/assets/curso/t2-i6.jpg", alt="icono decorativo")
           .col-md-6.mb-4.mb-md-0
             h4 Conexión en el mundo digital
-            p Biil Gates, presidente de la compañía Microsoft, advirtió sobre la evolución del acceso digital diciendo: <b>“Habrá dos tipos de negocios en el siglo XXI, Aquellos que estén en Internet y aquellos que ya no existan”</b> aduciendo dicha frase hasta el punto en que si una persona no está conectada, no existe.
+            p Bill Gates, presidente de la compañía Microsoft, advirtió sobre la evolución del acceso digital diciendo: <b>“Habrá dos tipos de negocios en el siglo XXI, aquellos que estén en internet y aquellos que ya no existan”</b> aduciendo dicha frase hasta el punto en que “si una persona no está conectada, no existe”.
 
 
     Separador
@@ -347,13 +356,13 @@
         SlyderA
           .row
             .col-md-6.mb-4.mb-md-0
-              p No accedas a enlaces sospechosos, esta es una práctica muy común de los ciberdelincuentes para hacerte caer en fraudes o infectarte con códigos maliciosos para robar información, pueden estar presentes en mensajes, correos electrónicos, noticias falsas entre otros.
+              p No accedas a enlaces sospechosos, esta es una práctica muy común de los ciberdelincuentes para hacerte caer en fraudes o infectarte con códigos maliciosos para robar información, pueden estar presentes en mensajes, correos electrónicos, noticias falsas, entre otros.
             .col-md-6
               figure
                 img(src='@/assets/curso/t3-s1.png', alt='imagen decorativa')  
           .row
             .col-md-6.mb-4.mb-md-0
-              p No accedas a sitios <i>web</i> no seguros, debes de tener en cuenta que la dirección que estés visitando debe contener un candado al frente de la <i>URL</i>, hoy en día con la existencia de la ingeniería social pueden recomendarte sitios de tu interés para captar tu atención, pero el único fin es robar tus datos e información.
+              p No accedas a sitios <i>web</i> no seguros, debes tener en cuenta que la dirección que estés visitando debe contener un candado al frente de la URL, hoy en día con la existencia de la ingeniería social pueden recomendarte sitios de tu interés para captar tu atención, pero el único fin es robar tus datos e información.
             .col-md-6
               figure
                 img(src='@/assets/curso/t3-s2.png', alt='imagen decorativa')  
@@ -402,13 +411,13 @@
 
           .row
             .col-md-6.mb-4.mb-md-0
-              p No te registres en todo, muchas veces entregas información personal en toda parte de la red, lo que hacen es recopilar tu información para poder atacarte, solo regístrate si es necesario y sepas que es confiable.
+              p No te registres en todo, muchas veces entregas información personal en toda la red, y lo que hacen los ciberdelincuentes es recopilar tu información para atacarte, solo regístrate si es necesario y sabes si es confiable.
             .col-md-6
               figure
                 img(src='@/assets/curso/t3-s9.png', alt='imagen decorativa')  
           .row
             .col-md-6.mb-4.mb-md-0
-              p Lee los avisos, alertas o mensajes, estas acostumbrado a dar aceptar a todo, tómate tu tiempo y revisa que estás aceptando, tal cual como dices en la vida real “leer la letra pequeña del contrato”.
+              p Lee los avisos, alertas o mensajes, estás acostumbrado a dar aceptar a todo, tómate tu tiempo y revisa que estás aceptando, tal cual como dices en la vida real “leer la letra pequeña del contrato”.  
             .col-md-6
               figure
                 img(src='@/assets/curso/t3-s10.png', alt='imagen decorativa')  
@@ -421,14 +430,14 @@
           .row
             .col-md-6.mb-4.mb-md-0
               .h4 Correo Electrónico
-              p También comúnmente conocido por el anglicismo E-Mail, es uno de los servicios más populares, su principal objetivo es el enviar y recibir información por medio de una casilla de correo, su ventaja es la inmediatez del servicio, el mensaje enviado basta solo segundos para que esté en su destino, para ello existen gratuitos y de pago, que radican en sus funcionalidades extendidas, una dirección está compuesta por el nombre o identificador que debe ser único, la arroba, y el dominio a quién pertenece el servicio, este puede enviar o recibir todo tipo de información (sonido, texto, imagen, videos, animación).
+              p Comúnmente conocido por el anglicismo e-mail, es uno de los servicios más populares, su principal objetivo es el enviar y recibir información por medio de una casilla de correo, su ventaja es la inmediatez del servicio, el mensaje enviado basta solo segundos para que esté en su destino; para ello existen gratuitos y de pago, que radican en sus funcionalidades extendidas. Una dirección de e-mail está compuesta por el nombre o identificador que debe ser único, la arroba y el dominio a quién pertenece el servicio, este puede enviar o recibir todo tipo de información (sonido, texto, imagen, videos, animación).
             .col-md-6
               figure
                 img(src='@/assets/curso/t2-n1.png', alt='imagen decorativa')  
           .row
             .col-md-6.mb-4.mb-md-0
               .h4 Buscadores
-              p Este servicio muy usado en internet, es aquel que permite encontrar información a través de una palabra clave, recuperan la información por medio de un robot de búsqueda llamado spider, localizando los recursos buscados y traídos a manera de lista para que usuario pueda acceder a todos los contenidos, normalmente viene acompañados de una breve descripción para saber que tipo de contenido encontró, posiblemente el que más uses sea el que provee Google, pero no es el único, en la red hay un abanico amplio de opciones hasta los buscadores científicos, de bancos de imágenes, académicos entre otros.
+              p Este servicio es muy usado en internet, pues permite encontrar información a través de una palabra clave, recupera la información por medio de un robot de búsqueda llamado <i>spider</i>, localizando los recursos buscados y traídos a manera de lista para que usuario pueda acceder a todos los contenidos, normalmente vienen acompañados de una breve descripción para saber que tipo de contenido encontró, posiblemente el que más uses sea el que provee Google, pero no es el único, en la red hay un abanico amplio de opciones hasta los buscadores científicos, de bancos de imágenes, académicos, entre otros.
             .col-md-6
               figure
                 img(src='@/assets/curso/t2-n2.png', alt='imagen decorativa')  
@@ -436,7 +445,7 @@
           .row
             .col-md-6.mb-4.mb-md-0
               .h4 Mensajería, chat o IRC
-              p Permite la comunicación instantánea con dos o más participantes, comúnmente conocido como chat, funciona hoy en día de manera síncrona y asíncrona donde los mensajes pueden contener diferente tipo de información, entre los más populares podemos encontrar a WhatsApp, Facebook Messenger, entre otros.
+              p Permite la comunicación instantánea con dos o más participantes, comúnmente conocido como chat, funciona hoy en día de manera síncrona y asíncrona donde los mensajes pueden contener diferente tipo de información, entre los más populares podemos encontrar  WhatsApp o Facebook Messenger.
             .col-md-6
               figure
                 img(src='@/assets/curso/t2-n3.png', alt='imagen decorativa')                 
@@ -444,7 +453,7 @@
           .row
             .col-md-6.mb-4.mb-md-0
               .h4 La <i>World Wide Web</i> (www)
-              p Es el servicio más popular, sus siglas en inglés <i>World Wide Web</i>, o telaraña mundial, es donde se alojan todas las páginas, sitios o portales web, que por medio de una dirección electrónica o URL pueden ser accedidos en cualquier parte del mundo, la transferencia de información se realiza mediante un protocolo llamado http (Protocolo de transferencia de hipertextos).
+              p Es el servicio más popular, sus siglas en inglés <i>World Wide Web</i>, o telaraña mundial, es donde se alojan todas las páginas, sitios o portales <i>web</i>, que por medio de una dirección electrónica o URL pueden ser accedidos en cualquier parte del mundo, la transferencia de información se realiza mediante un protocolo llamado http (protocolo de transferencia de hipertextos).
             .col-md-6
               figure
                 img(src='@/assets/curso/t2-n4.png', alt='imagen decorativa')                 
@@ -452,7 +461,7 @@
           .row
             .col-md-6.mb-4.mb-md-0
               .h4 Noticias o <i>news</i>
-              p Llamados grupos de noticias, es un servicio donde un grupo de computadores mediante un servidor de información brindan la oportunidad de crear, distribuir y organizar información de diferentes temáticas y así poder llegar a los usuarios según sus intereses particulares.
+              p Llamados grupos de noticias, es un servicio donde un grupo de computadores mediante un servidor de información brindan la oportunidad de crear, distribuir y organizar información de diferentes temáticas y llegar a los usuarios según sus intereses particulares.
             .col-md-6
               figure
                 img(src='@/assets/curso/t2-n5.png', alt='imagen decorativa')   
@@ -460,7 +469,7 @@
           .row
             .col-md-6.mb-4.mb-md-0
               .h4 Transferencia de archivos o FTP
-              p Es un servicio utilizado por personas o empresas que necesitan compartir grandes volúmenes de información de forma segura y rápida, se hace punto a punto comúnmente, se desarrolla para que las personas puedan enviar o recibir paquetes de datos e información. 
+              p Es un servicio utilizado por personas o empresas que necesitan compartir grandes volúmenes de información de forma segura y rápida, se hace punto a punto, comúnmente, y se desarrolla para que las personas puedan enviar o recibir paquetes de datos e información. 
             .col-md-6
               figure
                 img(src='@/assets/curso/t2-n6.png', alt='imagen decorativa')   
@@ -468,7 +477,7 @@
           .row
             .col-md-6.mb-4.mb-md-0
               .h4 Comercio electrónico
-              p Es un servicio que se ha utilizado como el mejor modelo de negocios para ofrecer u obtener bienes y servicios en la red por medios digitales, los cuales se pueden acceder por medios de catálogos y hasta aplicaciones móviles.
+              p Es un servicio que se ha utilizado como el mejor modelo de negocios para ofrecer u obtener bienes y servicios en la red por medios digitales, a los que se pueden acceder por medios de catálogos y hasta aplicaciones móviles.
             .col-md-6
               figure
                 img(src='@/assets/curso/t2-n7.png', alt='imagen decorativa')   
@@ -476,7 +485,7 @@
           .row
             .col-md-6.mb-4.mb-md-0
               .h4 Foros
-              p Es un espacio dirigido a un grupo de personas o individuos que comparten intereses, normalmente se abre con un tema o pregunta debate donde todos los usuarios registrados o anónimos pueden opinar sobre el tema, se hace de forma secuencial según los post publicados organizados por fecha y relevancia.
+              p espacio dirigido a un grupo de personas o individuos que comparten intereses, normalmente se abre con un tema o pregunta debate donde todos los usuarios registrados o anónimos pueden opinar sobre el tema, se hace de forma secuencial según los post publicados organizados por fecha y relevancia.
             .col-md-6
               figure
                 img(src='@/assets/curso/t2-n8.png', alt='imagen decorativa')   
@@ -484,7 +493,7 @@
           .row
             .col-md-6.mb-4.mb-md-0
               .h4 Wikis
-              p Este tipo de servicio, es utilizado para poder generar contenido en línea de manera colaborativa, habrás escuchado la famosa Wikipedia, que no es más que un sitio donde todos pueden ir aportando información para construir un gran compendio de contenidos, un claro ejemplo y que de seguro lo usas muy frecuentemente es la plataforma de Google YouTube, donde cada usuario aporta para que el servicio pueda ser consumido.
+              p Este tipo de servicio, es utilizado para poder generar contenido en línea de manera colaborativa, habrás escuchado la famosa Wikipedia, que no es más que un sitio donde todos pueden ir aportando información para construir un gran compendio de contenidos, un claro ejemplo y que de seguro lo usas muy frecuentemente es la plataforma YouTube, donde cada usuario aporta para que el servicio pueda ser consumido.
             .col-md-6
               figure
                 img(src='@/assets/curso/t2-n9.png', alt='imagen decorativa')   
@@ -492,7 +501,7 @@
           .row
             .col-md-6.mb-4.mb-md-0
               .h4 Redes Sociales
-              p Este servicio de colaboración en línea son comunidades digitales, las cuales son estructuradas para compartir información y los usuarios se unen según sus intereses, valores o ideas comunes, existen de tipo científico, académico, comercial entre otros, la más conocida mundialmente es Facebook.
+              p este servicio de colaboración en línea son comunidades digitales estructuradas para compartir información y los usuarios se unen según sus intereses, valores o ideas comunes, existen de tipo científico, académico, comercial entre otros, la más conocida mundialmente es Facebook.
             .col-md-6
               figure
                 img(src='@/assets/curso/t2-n10.png', alt='imagen decorativa')   

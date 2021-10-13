@@ -99,11 +99,11 @@
           .tarjeta.color-b3.p-3.shadow-box(x="12%" y="30%")
             p El intercambio permite establecer vínculos y relaciones para lograr un YO integral en la sociedad. 
           .tarjeta.color-b3.p-3.shadow-box(x="6%" y="62%")
-            p Responsabilidad y ética social para compartir sentimiento, experiencias y anécdotas.
+            p Responsabilidad y ética social para compartir sentimientos, experiencias y anécdotas.
           .tarjeta.color-b3.p-3.shadow-box(x="12%" y="92%")
-            p La forma de comunicarte y establecer estrechos lazos se da como un proceso natural al ser humano, por lo que, no es propio de la tecnología.         
+            p La forma de comunicar y establecer estrechos lazos se da como un proceso natural al ser humano, por lo que no es propio de la tecnología.        
           .tarjeta.color-b3.p-3.shadow-box(x="93%" y="40%")
-            p El mundo digital crea los preceptos en todas las esferas sociales, millones de datos se comparten, divulgan.
+            p El mundo digital crea los preceptos en todas las esferas sociales, millones de datos se comparten, se divulgan.
           .tarjeta.color-b3.p-3.shadow-box(x="93%" y="80%")
             p La socialización tiende a delimitarse desde la interacción de un dispositivo. 
 
@@ -173,9 +173,9 @@
           .tarjeta.color-b3.p-3.shadow-box(x="82%" y="27%")
             p Permiten estructurar nuevos medios para la generación del aprendizaje.
           .tarjeta.color-b3.p-3.shadow-box(x="90%" y="58%")
-            p Permite el envío y recepción de información para facilitar compartir cualquier tipo de información.       
+            p Posibilitan el envío y recepción de información para compartir cualquier tipo de información.       
           .tarjeta.color-b3.p-3.shadow-box(x="82%" y="89%")
-            p Permiten compartir información desde cualquier esfera social, son participativas, posibilitan el intercambio y la generación de nuevas formas de interacción.            
+            p Comparten información desde cualquier esfera social, son participativas, posibilitan el intercambio y la generación de nuevas formas de interacción.         
 
     p.mb-5  Las TIC son utilizadas para gestionar información de todo tipo y son consideradas las más efectivas a la hora de comunicar y colaborar con contenidos en línea.
     .row.justify-content-center
@@ -198,7 +198,7 @@
           .text.p-lg-3.p-4
             .row.px-lg-3.mb-lg-2
               p.h3 Tradicionales
-              p.small Conocidas como MASS-Media, utilizan canales de difusión masiva tales como la televisión, la radio, los periódicos, y pretenden llegar a un receptor colectivo, ya que la información no es controlada; es de tipo global e indiscriminada dentro de un mundo digital social.
+              p.small Conocidas como MASS-Media, utilizan canales de difusión masiva tales como la televisión, la radio, los periódicos y pretenden llegar a un receptor colectivo, ya que la información no es controlada; es de tipo global e indiscriminada dentro de un mundo digital social.
 
       .col-md-4.col-lg-4
         .nav-holder.align-items-center(data-aos="flip-up")
@@ -206,7 +206,7 @@
           .text.p-lg-3.p-4
             .row.px-lg-3.mb-lg-2
               p.h3 En red e informáticas
-              p.small A través de la incursión de dispositivos electrónicos y digitales se incrementa la interactividad, ofreciendo gran cantidad de servicios, que buscan la colaboración e intercambio de información entre los usuarios. Los medios digitales son inmersivos y muy rápidos, por ello, se han desarrollado diferentes opciones como la inteligencia artificial, las redes neuronales, la realidad virtual y aumentada.
+              p.small A través de la incursión de dispositivos electrónicos y digitales se incrementa la interactividad, ofreciendo gran cantidad de servicios, que buscan la colaboración e intercambio de información entre los usuarios. Los medios digitales son inmersivos y muy rápidos, por ello se han desarrollado diferentes opciones como la inteligencia artificial, las redes neuronales, la realidad virtual y aumentada.
 
       .col-md-4.col-lg-4
         .nav-holder.align-items-center(data-aos="flip-up")
@@ -214,7 +214,7 @@
           .text.p-lg-3.p-4
             .row.px-lg-3.mb-lg-2
               p.h3 Interactivas
-              p.small Las herramientas son mucho más versátiles, hoy en día es muy común encontrar tableros electrónicos en un ambiente de formación, donde la experiencia de usuario se hace cada vez más inclusiva.
+              p.small Las herramientas son mucho más versátiles, pues hoy en día es muy común encontrar tableros electrónicos en un ambiente de formación donde la experiencia de usuario se hace cada vez más inclusiva.
       .clearfix
       .col-md-4.col-lg-4
         .nav-holder.align-items-center(data-aos="flip-up")
@@ -231,6 +231,7 @@
             .row.px-lg-3.mb-lg-2
               p.h3 Activas
               p.small Son utilizadas en la educación para potenciar los aprendizajes en diferentes canales y medios, además en los procesos de productividad en empresas, a través de herramientas multimediales de gran impacto y hasta los buscadores de información generan una experiencia personalizada según cada usuario digital.
+
 
 
 
