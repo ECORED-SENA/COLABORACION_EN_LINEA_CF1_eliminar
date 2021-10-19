@@ -21,16 +21,16 @@
             span.text-normal En el siguiente recurso, se explica sobre ello. 
           .wrap-player
             audio(controls='')
-              source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')
+              source(src='@/assets/curso/intro.wav' type='audio/mpeg')
               |  Your browser does not support the audio tag.
 
 
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/oHGhb7QoRik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    
+    //--https://www.youtube.com/embed/oHGhb7QoRik"
 
 </template>
 

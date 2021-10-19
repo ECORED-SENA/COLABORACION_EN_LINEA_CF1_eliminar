@@ -14,11 +14,11 @@
             figure(data-aos="flip-left")
               img.nW(src="@/assets/curso/t1-4.png", alt="personaje animado")
         .col-lg-9
-          p.text-xl ¿Sabe para qué han sido creadas las TIC?
+          p.text-xl ¿Sabe para qué han sido creadas las TIC?  
             span.text-normal El tratamiento de la información en referencia a la comunicación y colaboración en línea hace repensar que las TIC fueron creadas para determinar las herramientas que permiten el acceso a todo tipo de datos en diferentes formas digitales. Estas se representan en:
           .wrap-player
             audio(controls='')
-              source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')
+              source(src='@/assets/curso/au-1.wav' type='audio/mpeg')
               |  Your browser does not support the audio tag.
     
     //-- below Row card list
@@ -138,7 +138,7 @@
     p.mb-5  Las tecnologías de información y comunicación poseen diferentes características que, por ser dinámicas y ágiles, hacen que los procesos comunicacionales entre las personas se hagan más fáciles; dentro de las más representativas se encuentran: 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/iJOOfpo1SdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.mb-5
       .col-lg-7
@@ -257,7 +257,7 @@
             span.text-normal A continuación, te invitamos a conocer sus ventajas y desventajas. 
           .wrap-player
             audio(controls='')
-              source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')
+              source(src='@/assets/curso/au-1.wav' type='audio/mpeg')
               |  Your browser does not support the audio tag.
 
     .titulo-quinto.color-secundario

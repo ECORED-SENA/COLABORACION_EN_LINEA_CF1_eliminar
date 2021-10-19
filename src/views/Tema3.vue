@@ -273,7 +273,7 @@
             figure(data-aos="flip-left")
               img(src="@/assets/curso/t2-i2.png", alt="personaje animado")
         .col-lg-9
-          p.text-xl La empresa no es ajena a los grandes avances tecnológicos, así, hoy en día existen gran cantidad de herramientas que ayudan a posicionar en el mercado las empresas y mejorar su productividad, entre ellas se pueden mencionar: 
+          p.text-xl Has terminado este proceso de formación en el cual podrás incorporar a tu vida las tecnologías de información y comunicación bajo las transformaciones de la sociedad actual, centradas en la comunicación y colaboración en línea. 
           .wrap-player
             audio(controls='')
               source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')

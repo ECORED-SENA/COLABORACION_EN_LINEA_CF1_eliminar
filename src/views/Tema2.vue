@@ -251,7 +251,7 @@
             ul.lista-ul
               li
                 i.fas.fa-check
-                p <b>Alfabetización digital</b>: se debe garantizar que todas las personas logren aprender a utilizar de forma adecuada las herramientas tecnológicas que mejoran la calidad de vida.
+                p <b>Alfabetización digital como competencia básica</b>: se debe garantizar que todas las personas logren aprender a utilizar de forma adecuada las herramientas tecnológicas que mejoran la calidad de vida.
               li
                 i.fas.fa-check
                 p <b>Mejorar el aprovechamiento y el acceso a Internet</b>; para estar inmersos en los cambios digitales y ser parte del mundo digital se debe garantizar una conexión en todos los rincones del planeta, muchos países han adoptado medidas públicas de conexión a internet en parques, bibliotecas, colegios, universidades, lo que acerca a todas las posibilidades de ser parte de este nuevo fenómeno social para lograr una inclusión social completa.
@@ -485,7 +485,7 @@
           .row
             .col-md-6.mb-4.mb-md-0
               .h4 Foros
-              p espacio dirigido a un grupo de personas o individuos que comparten intereses, normalmente se abre con un tema o pregunta debate donde todos los usuarios registrados o anónimos pueden opinar sobre el tema, se hace de forma secuencial según los post publicados organizados por fecha y relevancia.
+              p Espacio dirigido a un grupo de personas o individuos que comparten intereses, normalmente se abre con un tema o pregunta debate donde todos los usuarios registrados o anónimos pueden opinar sobre el tema, se hace de forma secuencial según los post publicados organizados por fecha y relevancia.
             .col-md-6
               figure
                 img(src='@/assets/curso/t2-n8.png', alt='imagen decorativa')   
@@ -501,7 +501,7 @@
           .row
             .col-md-6.mb-4.mb-md-0
               .h4 Redes Sociales
-              p este servicio de colaboración en línea son comunidades digitales estructuradas para compartir información y los usuarios se unen según sus intereses, valores o ideas comunes, existen de tipo científico, académico, comercial entre otros, la más conocida mundialmente es Facebook.
+              p Este servicio de colaboración en línea son comunidades digitales estructuradas para compartir información y los usuarios se unen según sus intereses, valores o ideas comunes, existen de tipo científico, académico, comercial entre otros, la más conocida mundialmente es Facebook.
             .col-md-6
               figure
                 img(src='@/assets/curso/t2-n10.png', alt='imagen decorativa')   
