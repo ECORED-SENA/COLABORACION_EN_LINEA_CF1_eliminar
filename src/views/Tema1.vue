@@ -242,7 +242,7 @@
     br
     br
     #t_1_2.titulo-segundo
-      h2 Ventajas y desventajas del proceso comunicacional en línea
+      h2 1.2  Ventajas y desventajas del proceso comunicacional en línea
 
     p.mb-5 El uso de las TIC en los procesos comunicacionales en línea debe ser en pro del desarrollo integral de una sociedad, pero es importante saber que existen múltiples ventajas y desventajas que pueden poner en peligro la identidad e integridad tanto física como emocional humana, pues la comunicación como proceso endógeno del ser humano se debe potencializar para el crecimiento y desarrollo del ser. 
     br
@@ -253,7 +253,7 @@
             figure(data-aos="flip-left")
               img.nW(src="@/assets/curso/t1-nn.png", alt="personaje animado")
         .col-lg-9
-          p.text-xl ¿Sabías que las herramientas comunicacionales que brindan las TIC no son neutras, positivas o negativas; todo depende de cómo se usen?
+          p.text-xl ¿Sabías que las herramientas comunicacionales que brindan las TIC no son neutras, positivas o negativas; todo depende de cómo se usen? 
             span.text-normal A continuación, te invitamos a conocer sus ventajas y desventajas. 
           .wrap-player
             audio(controls='')
