@@ -19,7 +19,7 @@
             span.text-normal pues la cultura digital permite acceder a muchos recursos, colaborar en espacios públicos y potenciar la inclusión y participación de un individuo como sociedad. 
           .wrap-player
             audio(controls='')
-              source(src='@/assets/curso/herramientas_digitales.wav' type='audio/mpeg')
+              source(src='@/assets/curso/herramientas_y_plataformas.wav' type='audio/mpeg')
               |  Your browser does not support the audio tag.
           //-- Aqui viene el player
     
