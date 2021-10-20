@@ -25,7 +25,7 @@
                 img.nW(src="@/assets/curso/t2-i1.svg", alt="imagen decorativa")
 
     p.mb-5  La construcción de nuevos conocimientos y la colaboración en línea permiten el desenvolvimiento en entornos de comunicación fluidos, de forma autónoma y determinando la gestión de servicios como pieza clave en el mundo digital. Comunicarse y compartir recursos son habilidades que se deben dominar a través de las metodologías activas y así es como los avances informáticos posibilitan dichas labores en los entornos digitales.
-    br
+    .spacer
     .corner-box.color-b2.p-4.mb-5.m-custom
       .row.align-items-center
         .col-lg-3
@@ -35,7 +35,7 @@
         .col-lg-9
           p.text-xl ¿Conoces las características clave para la comunicación y colaboración en línea? 
             span.text-normal Pues bien, ahora te invitamos a conocer sobre estos recursos:
-          .wrap-player
+          //--.wrap-player
             audio(controls='')
               source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')
               |  Your browser does not support the audio tag.
@@ -117,7 +117,7 @@
           p.text-xl 
             span.text-normal  Es así como las diversas herramientas digitales de comunicación te dan un abanico de opciones para analizarlas y clasificarlas según su uso y escoger las más idóneas.  
             span Teniendo en cuenta la forma de cómo se puede intercambiar información y en el tiempo que estas se realicen, se puede tener dos tipos de comunicación: sincrónicas y asincrónicas, esto es, en función de la simultaneidad con la que se envía y recibe cada mensaje. 
-          .wrap-player
+          //--.wrap-player
             audio(controls='')
               source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')
               |  Your browser does not support the audio tag.
@@ -133,6 +133,7 @@
           img.nW(src="@/assets/curso/t2-ic2.svg", alt="imagen decorativa")
       .col-lg-10(data-aos="flip-right")
         p En todo proceso de comunicación y participativo en medios digitales, la comunicación sincrónica y asincrónica toma un valor relevante, ya que las dos formas dan mejores posibilidades de cómo comunicarse con quien se desee y en el momento que se quiera, ya sea por medio de mensajería, chats, foros entre otros; así, el conocer las posibilidades de las herramientas de comunicación será vital para elegir las que más se ajuste a las actividades y sea relevante a la hora de compartir y comunicar.
+    .spacer
     .corner-box.color-b1.p-4.mb-5.m-custom
       .row.align-items-center
         .col-lg-3
@@ -142,7 +143,7 @@
         .col-lg-9
           p.text-xl ¿Sabes acerca de la diversidad de herramientas digitales?  
             span.text-normal Te invitamos a conocer su clasificación. 
-          .wrap-player
+          //--.wrap-player
             audio(controls='')
               source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')
               |  Your browser does not support the audio tag.
@@ -336,7 +337,7 @@
               figure(data-aos="flip-left")
                 img.nW(src="@/assets/curso/t2-i7.svg", alt="imagen decorativa")
 
-    br
+    .spacer
     .corner-box.color-b2.p-4.mb-5.m-custom
       .row.align-items-center
         .col-lg-3
@@ -346,7 +347,7 @@
         .col-lg-9
           p.text-xl ¿Conoces los peligros y amenazas que ponen en peligro tu información e integridad?  
             span.text-normal Aquí te damos algunos consejos y principios de seguridad prácticos para que navegues de forma segura.
-          .wrap-player
+          //--.wrap-player
             audio(controls='')
               source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')
               |  Your browser does not support the audio tag.
