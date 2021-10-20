@@ -18,7 +18,7 @@
             span.text-normal El tratamiento de la información en referencia a la comunicación y colaboración en línea hace repensar que las TIC fueron creadas para determinar las herramientas que permiten el acceso a todo tipo de datos en diferentes formas digitales. Estas se representan en:
           .wrap-player
             audio(controls='')
-              source(src='@/assets/curso/au-1.wav' type='audio/mpeg')
+              source(src='@/assets/curso/las-tic.wav' type='audio/mpeg')
               |  Your browser does not support the audio tag.
     
     //-- below Row card list
