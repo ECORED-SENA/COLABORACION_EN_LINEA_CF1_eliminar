@@ -276,7 +276,7 @@
           p.text-xl Has terminado este proceso de formación en el cual podrás incorporar a tu vida las tecnologías de información y comunicación bajo las transformaciones de la sociedad actual, centradas en la comunicación y colaboración en línea. 
           .wrap-player
             audio(controls='')
-              source(src='@/assets/curso/ciudadano_digital.wav' type='audio/mpeg')
+              source(src='@/assets/curso/end.wav' type='audio/mpeg')
               |  Your browser does not support the audio tag.
     br
 
