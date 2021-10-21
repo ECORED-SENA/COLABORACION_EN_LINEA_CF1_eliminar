@@ -21,7 +21,7 @@
             audio(controls='')
               source(src='@/assets/curso/herramientas_y_plataformas.wav' type='audio/mpeg')
               |  Your browser does not support the audio tag.
-          //-- Aqui viene el player
+
     
     #t_3_1.titulo-segundo
       h2 3.1 Concepto, usos y características
