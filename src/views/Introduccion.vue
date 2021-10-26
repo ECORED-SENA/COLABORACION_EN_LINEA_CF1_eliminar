@@ -21,7 +21,7 @@
             span.text-normal En el siguiente recurso, se explica sobre ello. 
           .wrap-player
             audio(controls='')
-              source(src='@/assets/curso/intro.wav' type='audio/mpeg')
+              source(src='@/assets/curso/intro.mp3' type='audio/mpeg')
               |  Your browser does not support the audio tag.
 
 
